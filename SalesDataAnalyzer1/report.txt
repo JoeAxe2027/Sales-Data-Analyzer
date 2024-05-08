@@ -1,0 +1,1070 @@
+Total Sales: $307,587.38
+
+Unique Product Lines:
+Health and beauty
+Electronic accessories
+Home and lifestyle
+Sports and travel
+Food and beverages
+Fashion accessories
+
+Total Sales by Product Line:
+Health and beauty: $46,851.18
+Electronic accessories: $51,750.03
+Home and lifestyle: $51,297.06
+Sports and travel: $52,497.93
+Food and beverages: $53,471.28
+Fashion accessories: $51,719.90
+
+Total Sales per City:
+Yangon: $101,143.21
+Naypyitaw: $105,303.53
+Mandalay: $101,140.64
+
+Highest Unit Price Product Line: Sports and travel at $99.96
+--------------------------------------------------------------------------------------------------------------------
+
+Total Sales per Month:
+Yangon 1: $36,839.17
+Naypyitaw 3: $35,427.66
+Yangon 3: $35,865.83
+Yangon 2: $28,438.21
+Naypyitaw 2: $31,366.65
+Mandalay 2: $32,785.02
+Mandalay 3: $32,949.85
+Mandalay 1: $35,405.77
+Naypyitaw 1: $38,509.22
+--------------------------------------------------------------------------------------------------------------------
+
+Total Sales per Payment Type:
+Ewallet: $104,755.34
+Cash: $106,863.40
+Credit card: $95,968.64
+--------------------------------------------------------------------------------------------------------------------
+
+Number of Transactions per Member Type:
+Member: 501
+Normal: 499
+
+Average Rating per Product Line:
+Health and beauty: 7.00
+Electronic accessories: 6.92
+Home and lifestyle: 6.84
+Sports and travel: 6.92
+Food and beverages: 7.11
+Fashion accessories: 7.03
+--------------------------------------------------------------------------------------------------------------------
+
+Total Quantity of Products Sold per City:
+Yangon: 1859
+Naypyitaw: 1831
+Mandalay: 1820
+--------------------------------------------------------------------------------------------------------------------
+
+Total Number of Transactions per Payment Type:
+Ewallet: 345
+Cash: 344
+Credit card: 311
+--------------------------------------------------------------------------------------------------------------------
+
+Taxes for Each Transaction:
+Invoice 226-31-3081, Electronic accessories - Total Sales: $76.40, Tax: $3.82
+Invoice 699-14-3026, Electronic accessories - Total Sales: $597.73, Tax: $29.89
+Invoice 355-53-5943, Electronic accessories - Total Sales: $413.04, Tax: $20.65
+Invoice 529-56-3974, Electronic accessories - Total Sales: $102.04, Tax: $5.10
+Invoice 365-64-0515, Electronic accessories - Total Sales: $234.75, Tax: $11.74
+Invoice 300-71-4605, Electronic accessories - Total Sales: $430.20, Tax: $21.51
+Invoice 636-48-8204, Electronic accessories - Total Sales: $172.80, Tax: $8.64
+Invoice 272-65-1806, Electronic accessories - Total Sales: $547.92, Tax: $27.40
+Invoice 132-32-9879, Electronic accessories - Total Sales: $375.84, Tax: $18.79
+Invoice 669-54-1719, Electronic accessories - Total Sales: $113.58, Tax: $5.68
+Invoice 399-46-5918, Electronic accessories - Total Sales: $687.84, Tax: $34.39
+Invoice 120-06-4233, Electronic accessories - Total Sales: $183.66, Tax: $9.18
+Invoice 841-35-6630, Electronic accessories - Total Sales: $455.46, Tax: $22.77
+Invoice 732-94-0499, Electronic accessories - Total Sales: $416.50, Tax: $20.83
+Invoice 594-34-4444, Electronic accessories - Total Sales: $97.16, Tax: $4.86
+Invoice 871-39-9221, Electronic accessories - Total Sales: $74.70, Tax: $3.74
+Invoice 551-21-3069, Electronic accessories - Total Sales: $207.63, Tax: $10.38
+Invoice 704-48-3927, Electronic accessories - Total Sales: $886.70, Tax: $44.34
+Invoice 861-77-0145, Electronic accessories - Total Sales: $819.70, Tax: $40.99
+Invoice 638-60-7125, Electronic accessories - Total Sales: $796.48, Tax: $39.82
+Invoice 590-83-4591, Electronic accessories - Total Sales: $524.70, Tax: $26.24
+Invoice 700-81-1757, Electronic accessories - Total Sales: $131.55, Tax: $6.58
+Invoice 279-74-2924, Electronic accessories - Total Sales: $72.17, Tax: $3.61
+Invoice 733-33-4967, Electronic accessories - Total Sales: $166.80, Tax: $8.34
+Invoice 608-27-6295, Electronic accessories - Total Sales: $317.34, Tax: $15.87
+Invoice 831-07-6050, Electronic accessories - Total Sales: $163.55, Tax: $8.18
+Invoice 542-41-0513, Electronic accessories - Total Sales: $229.96, Tax: $11.50
+Invoice 426-39-2418, Electronic accessories - Total Sales: $429.87, Tax: $21.49
+Invoice 672-51-8681, Electronic accessories - Total Sales: $599.85, Tax: $29.99
+Invoice 817-69-8206, Electronic accessories - Total Sales: $897.57, Tax: $44.88
+Invoice 888-02-0338, Electronic accessories - Total Sales: $236.07, Tax: $11.80
+Invoice 319-74-2561, Electronic accessories - Total Sales: $283.92, Tax: $14.20
+Invoice 239-36-3640, Electronic accessories - Total Sales: $272.10, Tax: $13.61
+Invoice 389-25-3394, Electronic accessories - Total Sales: $59.05, Tax: $2.95
+Invoice 583-72-1480, Electronic accessories - Total Sales: $148.24, Tax: $7.41
+Invoice 466-61-5506, Electronic accessories - Total Sales: $544.20, Tax: $27.21
+Invoice 545-46-3100, Electronic accessories - Total Sales: $31.77, Tax: $1.59
+Invoice 346-84-3103, Electronic accessories - Total Sales: $66.10, Tax: $3.31
+Invoice 866-05-7563, Electronic accessories - Total Sales: $244.20, Tax: $12.21
+Invoice 799-71-1548, Electronic accessories - Total Sales: $310.88, Tax: $15.54
+Invoice 366-93-0948, Electronic accessories - Total Sales: $66.35, Tax: $3.32
+Invoice 151-16-1484, Electronic accessories - Total Sales: $129.00, Tax: $6.45
+Invoice 380-94-4661, Electronic accessories - Total Sales: $263.76, Tax: $13.19
+Invoice 850-41-9669, Electronic accessories - Total Sales: $675.54, Tax: $33.78
+Invoice 139-20-0155, Electronic accessories - Total Sales: $403.00, Tax: $20.15
+Invoice 558-80-4082, Electronic accessories - Total Sales: $194.95, Tax: $9.75
+Invoice 278-97-7759, Electronic accessories - Total Sales: $62.48, Tax: $3.12
+Invoice 211-05-0490, Electronic accessories - Total Sales: $259.60, Tax: $12.98
+Invoice 727-75-6477, Electronic accessories - Total Sales: $115.36, Tax: $5.77
+Invoice 439-54-7422, Electronic accessories - Total Sales: $204.76, Tax: $10.24
+Invoice 396-90-2219, Electronic accessories - Total Sales: $119.68, Tax: $5.98
+Invoice 411-77-0180, Electronic accessories - Total Sales: $505.40, Tax: $25.27
+Invoice 512-98-1403, Electronic accessories - Total Sales: $79.44, Tax: $3.97
+Invoice 227-07-4446, Electronic accessories - Total Sales: $781.30, Tax: $39.07
+Invoice 603-07-0961, Electronic accessories - Total Sales: $373.95, Tax: $18.70
+Invoice 340-66-0321, Electronic accessories - Total Sales: $145.44, Tax: $7.27
+Invoice 527-09-6272, Electronic accessories - Total Sales: $142.25, Tax: $7.11
+Invoice 633-09-3463, Electronic accessories - Total Sales: $142.95, Tax: $7.15
+Invoice 378-07-7001, Electronic accessories - Total Sales: $144.27, Tax: $7.21
+Invoice 441-94-7118, Electronic accessories - Total Sales: $71.95, Tax: $3.60
+Invoice 531-80-1784, Electronic accessories - Total Sales: $182.14, Tax: $9.11
+Invoice 834-61-8124, Electronic accessories - Total Sales: $361.83, Tax: $18.09
+Invoice 320-49-6392, Electronic accessories - Total Sales: $30.24, Tax: $1.51
+Invoice 453-63-6187, Electronic accessories - Total Sales: $82.50, Tax: $4.13
+Invoice 122-61-9553, Electronic accessories - Total Sales: $461.88, Tax: $23.09
+Invoice 254-31-0042, Electronic accessories - Total Sales: $193.50, Tax: $9.68
+Invoice 201-86-2184, Electronic accessories - Total Sales: $183.82, Tax: $9.19
+Invoice 182-69-8360, Electronic accessories - Total Sales: $94.60, Tax: $4.73
+Invoice 462-78-5240, Electronic accessories - Total Sales: $53.22, Tax: $2.66
+Invoice 563-36-9814, Electronic accessories - Total Sales: $76.82, Tax: $3.84
+Invoice 346-12-3257, Electronic accessories - Total Sales: $173.16, Tax: $8.66
+Invoice 745-71-3520, Electronic accessories - Total Sales: $176.54, Tax: $8.83
+Invoice 740-22-2500, Electronic accessories - Total Sales: $252.15, Tax: $12.61
+Invoice 459-50-7686, Electronic accessories - Total Sales: $140.76, Tax: $7.04
+Invoice 810-60-6344, Electronic accessories - Total Sales: $326.88, Tax: $16.34
+Invoice 891-01-7034, Electronic accessories - Total Sales: $448.26, Tax: $22.41
+Invoice 744-09-5786, Electronic accessories - Total Sales: $132.06, Tax: $6.60
+Invoice 187-83-5490, Electronic accessories - Total Sales: $83.08, Tax: $4.15
+Invoice 533-33-5337, Electronic accessories - Total Sales: $793.90, Tax: $39.70
+Invoice 325-90-8763, Electronic accessories - Total Sales: $465.70, Tax: $23.29
+Invoice 233-34-0817, Electronic accessories - Total Sales: $98.84, Tax: $4.94
+Invoice 676-39-6028, Electronic accessories - Total Sales: $322.20, Tax: $16.11
+Invoice 598-47-9715, Electronic accessories - Total Sales: $336.28, Tax: $16.81
+Invoice 575-67-1508, Electronic accessories - Total Sales: $38.60, Tax: $1.93
+Invoice 246-11-3901, Electronic accessories - Total Sales: $328.00, Tax: $16.40
+Invoice 556-97-7101, Electronic accessories - Total Sales: $126.44, Tax: $6.32
+Invoice 726-29-6793, Electronic accessories - Total Sales: $193.44, Tax: $9.67
+Invoice 189-52-0236, Electronic accessories - Total Sales: $696.85, Tax: $34.84
+Invoice 734-91-1155, Electronic accessories - Total Sales: $137.13, Tax: $6.86
+Invoice 857-67-9057, Electronic accessories - Total Sales: $229.50, Tax: $11.48
+Invoice 243-47-2663, Electronic accessories - Total Sales: $112.62, Tax: $5.63
+Invoice 213-32-1216, Electronic accessories - Total Sales: $396.36, Tax: $19.82
+Invoice 399-69-4630, Electronic accessories - Total Sales: $133.26, Tax: $6.66
+Invoice 134-75-2619, Electronic accessories - Total Sales: $135.24, Tax: $6.76
+Invoice 174-75-0888, Electronic accessories - Total Sales: $194.22, Tax: $9.71
+Invoice 134-54-4720, Electronic accessories - Total Sales: $339.36, Tax: $16.97
+Invoice 760-90-2357, Electronic accessories - Total Sales: $447.06, Tax: $22.35
+Invoice 219-61-4139, Electronic accessories - Total Sales: $83.08, Tax: $4.15
+Invoice 421-95-9805, Electronic accessories - Total Sales: $28.96, Tax: $1.45
+Invoice 840-19-2096, Electronic accessories - Total Sales: $439.55, Tax: $21.98
+Invoice 655-07-2265, Electronic accessories - Total Sales: $234.93, Tax: $11.75
+Invoice 318-81-2368, Electronic accessories - Total Sales: $46.20, Tax: $2.31
+Invoice 155-45-3814, Electronic accessories - Total Sales: $708.40, Tax: $35.42
+Invoice 794-32-2436, Electronic accessories - Total Sales: $111.34, Tax: $5.57
+Invoice 273-84-2164, Electronic accessories - Total Sales: $60.25, Tax: $3.01
+Invoice 740-11-5257, Electronic accessories - Total Sales: $247.40, Tax: $12.37
+Invoice 369-82-2676, Electronic accessories - Total Sales: $378.30, Tax: $18.92
+Invoice 169-52-4504, Electronic accessories - Total Sales: $47.07, Tax: $2.35
+Invoice 250-81-7186, Electronic accessories - Total Sales: $99.69, Tax: $4.98
+Invoice 811-03-8790, Electronic accessories - Total Sales: $454.80, Tax: $22.74
+Invoice 528-87-5606, Electronic accessories - Total Sales: $39.48, Tax: $1.97
+Invoice 868-06-0466, Electronic accessories - Total Sales: $626.22, Tax: $31.31
+Invoice 834-45-5519, Electronic accessories - Total Sales: $172.00, Tax: $8.60
+Invoice 183-21-3799, Electronic accessories - Total Sales: $698.67, Tax: $34.93
+Invoice 482-17-1179, Electronic accessories - Total Sales: $35.82, Tax: $1.79
+Invoice 438-23-1242, Electronic accessories - Total Sales: $531.16, Tax: $26.56
+Invoice 137-63-5492, Electronic accessories - Total Sales: $587.60, Tax: $29.38
+Invoice 197-77-7132, Electronic accessories - Total Sales: $732.48, Tax: $36.62
+Invoice 807-14-7833, Electronic accessories - Total Sales: $174.20, Tax: $8.71
+Invoice 785-96-0615, Electronic accessories - Total Sales: $285.92, Tax: $14.30
+Invoice 525-09-8450, Electronic accessories - Total Sales: $721.30, Tax: $36.07
+Invoice 711-31-1234, Electronic accessories - Total Sales: $382.56, Tax: $19.13
+Invoice 457-94-0464, Electronic accessories - Total Sales: $790.83, Tax: $39.54
+Invoice 404-91-5964, Electronic accessories - Total Sales: $522.06, Tax: $26.10
+Invoice 886-77-9084, Electronic accessories - Total Sales: $575.12, Tax: $28.76
+Invoice 263-12-5321, Electronic accessories - Total Sales: $648.20, Tax: $32.41
+Invoice 702-72-0487, Electronic accessories - Total Sales: $93.22, Tax: $4.66
+Invoice 324-41-6833, Electronic accessories - Total Sales: $241.60, Tax: $12.08
+Invoice 831-81-6575, Electronic accessories - Total Sales: $680.31, Tax: $34.02
+Invoice 257-60-7754, Electronic accessories - Total Sales: $200.92, Tax: $10.05
+Invoice 380-60-5336, Electronic accessories - Total Sales: $402.60, Tax: $20.13
+Invoice 674-56-6360, Electronic accessories - Total Sales: $95.15, Tax: $4.76
+Invoice 778-34-2523, Electronic accessories - Total Sales: $388.96, Tax: $19.45
+Invoice 366-43-6862, Electronic accessories - Total Sales: $211.56, Tax: $10.58
+Invoice 538-22-0304, Electronic accessories - Total Sales: $649.50, Tax: $32.48
+Invoice 416-17-9926, Electronic accessories - Total Sales: $742.20, Tax: $37.11
+Invoice 237-44-6163, Electronic accessories - Total Sales: $84.48, Tax: $4.22
+Invoice 660-29-7083, Electronic accessories - Total Sales: $558.70, Tax: $27.94
+Invoice 291-59-1384, Electronic accessories - Total Sales: $60.30, Tax: $3.02
+Invoice 804-38-3935, Electronic accessories - Total Sales: $281.34, Tax: $14.07
+Invoice 585-90-0249, Electronic accessories - Total Sales: $73.26, Tax: $3.66
+Invoice 866-70-2814, Electronic accessories - Total Sales: $527.90, Tax: $26.40
+Invoice 124-31-1458, Electronic accessories - Total Sales: $238.77, Tax: $11.94
+Invoice 544-55-9589, Electronic accessories - Total Sales: $214.30, Tax: $10.72
+Invoice 608-05-3804, Electronic accessories - Total Sales: $39.75, Tax: $1.99
+Invoice 448-61-3783, Electronic accessories - Total Sales: $720.16, Tax: $36.01
+Invoice 761-49-0439, Electronic accessories - Total Sales: $96.80, Tax: $4.84
+Invoice 884-80-6021, Electronic accessories - Total Sales: $734.70, Tax: $36.74
+Invoice 114-35-5271, Electronic accessories - Total Sales: $463.28, Tax: $23.16
+Invoice 715-20-1673, Electronic accessories - Total Sales: $141.90, Tax: $7.10
+Invoice 811-35-1094, Electronic accessories - Total Sales: $302.70, Tax: $15.14
+Invoice 377-79-7592, Electronic accessories - Total Sales: $403.56, Tax: $20.18
+Invoice 151-27-8496, Electronic accessories - Total Sales: $224.52, Tax: $11.23
+Invoice 717-96-4189, Electronic accessories - Total Sales: $212.94, Tax: $10.65
+Invoice 636-98-3364, Electronic accessories - Total Sales: $78.78, Tax: $3.94
+Invoice 226-34-0034, Electronic accessories - Total Sales: $55.12, Tax: $2.76
+Invoice 431-66-2305, Electronic accessories - Total Sales: $794.25, Tax: $39.71
+Invoice 489-82-1237, Electronic accessories - Total Sales: $657.16, Tax: $32.86
+Invoice 859-97-6048, Electronic accessories - Total Sales: $168.50, Tax: $8.43
+Invoice 430-02-3888, Electronic accessories - Total Sales: $276.12, Tax: $13.81
+Invoice 324-92-3863, Electronic accessories - Total Sales: $41.78, Tax: $2.09
+Invoice 364-34-2972, Electronic accessories - Total Sales: $290.46, Tax: $14.52
+Invoice 172-42-8274, Electronic accessories - Total Sales: $76.54, Tax: $3.83
+Invoice 214-30-2776, Electronic accessories - Total Sales: $172.45, Tax: $8.62
+Invoice 452-04-8808, Electronic accessories - Total Sales: $609.56, Tax: $30.48
+Invoice 156-20-0370, Electronic accessories - Total Sales: $25.45, Tax: $1.27
+Invoice 189-40-5216, Electronic accessories - Total Sales: $674.59, Tax: $33.73
+Invoice 267-62-7380, Electronic accessories - Total Sales: $823.40, Tax: $41.17
+Invoice 745-74-0715, Electronic accessories - Total Sales: $116.06, Tax: $5.80
+Invoice 652-49-6720, Electronic accessories - Total Sales: $60.95, Tax: $3.05
+Invoice 351-62-0822, Fashion accessories - Total Sales: $57.92, Tax: $2.90
+Invoice 649-29-6775, Fashion accessories - Total Sales: $33.52, Tax: $1.68
+Invoice 189-17-4241, Fashion accessories - Total Sales: $175.34, Tax: $8.77
+Invoice 871-79-8483, Fashion accessories - Total Sales: $470.65, Tax: $23.53
+Invoice 574-22-5561, Fashion accessories - Total Sales: $826.30, Tax: $41.32
+Invoice 616-24-2851, Fashion accessories - Total Sales: $71.48, Tax: $3.57
+Invoice 778-71-5554, Fashion accessories - Total Sales: $15.43, Tax: $0.77
+Invoice 109-28-2512, Fashion accessories - Total Sales: $585.66, Tax: $29.28
+Invoice 796-12-2025, Fashion accessories - Total Sales: $621.20, Tax: $31.06
+Invoice 263-10-3913, Fashion accessories - Total Sales: $441.36, Tax: $22.07
+Invoice 381-20-0914, Fashion accessories - Total Sales: $180.09, Tax: $9.00
+Invoice 362-58-8315, Fashion accessories - Total Sales: $382.60, Tax: $19.13
+Invoice 163-56-7055, Fashion accessories - Total Sales: $48.71, Tax: $2.44
+Invoice 189-98-2939, Fashion accessories - Total Sales: $706.95, Tax: $35.35
+Invoice 628-34-3388, Fashion accessories - Total Sales: $164.28, Tax: $8.21
+Invoice 227-78-1148, Fashion accessories - Total Sales: $509.88, Tax: $25.49
+Invoice 225-98-1496, Fashion accessories - Total Sales: $81.06, Tax: $4.05
+Invoice 291-32-1427, Fashion accessories - Total Sales: $109.70, Tax: $5.49
+Invoice 659-65-8956, Fashion accessories - Total Sales: $51.36, Tax: $2.57
+Invoice 268-27-6179, Fashion accessories - Total Sales: $451.76, Tax: $22.59
+Invoice 189-08-9157, Fashion accessories - Total Sales: $285.57, Tax: $14.28
+Invoice 191-10-6171, Fashion accessories - Total Sales: $277.34, Tax: $13.87
+Invoice 597-78-7908, Fashion accessories - Total Sales: $270.66, Tax: $13.53
+Invoice 685-64-1609, Fashion accessories - Total Sales: $301.40, Tax: $15.07
+Invoice 608-96-3517, Fashion accessories - Total Sales: $366.16, Tax: $18.31
+Invoice 746-94-0204, Fashion accessories - Total Sales: $749.16, Tax: $37.46
+Invoice 687-47-8271, Fashion accessories - Total Sales: $989.80, Tax: $49.49
+Invoice 139-52-2867, Fashion accessories - Total Sales: $157.57, Tax: $7.88
+Invoice 130-98-8941, Fashion accessories - Total Sales: $449.82, Tax: $22.49
+Invoice 437-58-8131, Fashion accessories - Total Sales: $147.04, Tax: $7.35
+Invoice 556-86-3144, Fashion accessories - Total Sales: $74.29, Tax: $3.71
+Invoice 573-58-9734, Fashion accessories - Total Sales: $91.11, Tax: $4.56
+Invoice 549-03-9315, Fashion accessories - Total Sales: $758.96, Tax: $37.95
+Invoice 279-62-1445, Fashion accessories - Total Sales: $12.54, Tax: $0.63
+Invoice 289-65-5721, Fashion accessories - Total Sales: $162.74, Tax: $8.14
+Invoice 269-04-5750, Fashion accessories - Total Sales: $295.28, Tax: $14.76
+Invoice 755-12-3214, Fashion accessories - Total Sales: $221.10, Tax: $11.06
+Invoice 478-06-7835, Fashion accessories - Total Sales: $89.69, Tax: $4.48
+Invoice 142-72-4741, Fashion accessories - Total Sales: $186.40, Tax: $9.32
+Invoice 604-70-6476, Fashion accessories - Total Sales: $89.70, Tax: $4.49
+Invoice 662-47-5456, Fashion accessories - Total Sales: $351.90, Tax: $17.60
+Invoice 110-48-7033, Fashion accessories - Total Sales: $130.48, Tax: $6.52
+Invoice 821-07-3596, Fashion accessories - Total Sales: $65.80, Tax: $3.29
+Invoice 655-85-5130, Fashion accessories - Total Sales: $153.20, Tax: $7.66
+Invoice 566-19-5475, Fashion accessories - Total Sales: $335.79, Tax: $16.79
+Invoice 376-56-3573, Fashion accessories - Total Sales: $381.68, Tax: $19.08
+Invoice 537-72-0426, Fashion accessories - Total Sales: $709.90, Tax: $35.50
+Invoice 446-47-6729, Fashion accessories - Total Sales: $199.64, Tax: $9.98
+Invoice 848-42-2560, Fashion accessories - Total Sales: $163.82, Tax: $8.19
+Invoice 181-94-6432, Fashion accessories - Total Sales: $138.66, Tax: $6.93
+Invoice 563-91-7120, Fashion accessories - Total Sales: $308.85, Tax: $15.44
+Invoice 566-71-1091, Fashion accessories - Total Sales: $385.10, Tax: $19.26
+Invoice 898-04-2717, Fashion accessories - Total Sales: $687.60, Tax: $34.38
+Invoice 135-84-8019, Fashion accessories - Total Sales: $701.37, Tax: $35.07
+Invoice 860-79-0874, Fashion accessories - Total Sales: $993.00, Tax: $49.65
+Invoice 115-99-4379, Fashion accessories - Total Sales: $383.11, Tax: $19.16
+Invoice 632-90-0281, Fashion accessories - Total Sales: $375.50, Tax: $18.78
+Invoice 834-25-9262, Fashion accessories - Total Sales: $326.72, Tax: $16.34
+Invoice 261-12-8671, Fashion accessories - Total Sales: $121.92, Tax: $6.10
+Invoice 382-25-8917, Fashion accessories - Total Sales: $252.48, Tax: $12.62
+Invoice 667-23-5919, Fashion accessories - Total Sales: $483.50, Tax: $24.18
+Invoice 595-86-2894, Fashion accessories - Total Sales: $387.92, Tax: $19.40
+Invoice 394-41-0748, Fashion accessories - Total Sales: $486.63, Tax: $24.33
+Invoice 541-89-9860, Fashion accessories - Total Sales: $241.44, Tax: $12.07
+Invoice 173-82-9529, Fashion accessories - Total Sales: $379.50, Tax: $18.98
+Invoice 831-64-0259, Fashion accessories - Total Sales: $198.75, Tax: $9.94
+Invoice 587-03-7455, Fashion accessories - Total Sales: $684.53, Tax: $34.23
+Invoice 725-32-9708, Fashion accessories - Total Sales: $274.84, Tax: $13.74
+Invoice 372-26-1506, Fashion accessories - Total Sales: $119.10, Tax: $5.96
+Invoice 271-88-8734, Fashion accessories - Total Sales: $972.10, Tax: $48.61
+Invoice 301-81-8610, Fashion accessories - Total Sales: $203.36, Tax: $10.17
+Invoice 489-64-4354, Fashion accessories - Total Sales: $16.28, Tax: $0.81
+Invoice 198-84-7132, Fashion accessories - Total Sales: $365.49, Tax: $18.27
+Invoice 286-75-7818, Fashion accessories - Total Sales: $138.16, Tax: $6.91
+Invoice 616-87-0016, Fashion accessories - Total Sales: $668.78, Tax: $33.44
+Invoice 837-55-7229, Fashion accessories - Total Sales: $47.44, Tax: $2.37
+Invoice 192-98-7397, Fashion accessories - Total Sales: $12.78, Tax: $0.64
+Invoice 453-12-7053, Fashion accessories - Total Sales: $137.22, Tax: $6.86
+Invoice 767-54-1907, Fashion accessories - Total Sales: $147.80, Tax: $7.39
+Invoice 405-31-3305, Fashion accessories - Total Sales: $431.30, Tax: $21.57
+Invoice 709-58-4068, Fashion accessories - Total Sales: $410.90, Tax: $20.55
+Invoice 795-49-7276, Fashion accessories - Total Sales: $148.60, Tax: $7.43
+Invoice 686-41-0932, Fashion accessories - Total Sales: $69.40, Tax: $3.47
+Invoice 510-09-5628, Fashion accessories - Total Sales: $196.60, Tax: $9.83
+Invoice 437-53-3084, Fashion accessories - Total Sales: $199.78, Tax: $9.99
+Invoice 573-98-8548, Fashion accessories - Total Sales: $31.90, Tax: $1.60
+Invoice 595-27-4851, Fashion accessories - Total Sales: $379.96, Tax: $19.00
+Invoice 413-20-6708, Fashion accessories - Total Sales: $51.47, Tax: $2.57
+Invoice 286-62-6248, Fashion accessories - Total Sales: $156.84, Tax: $7.84
+Invoice 339-38-9982, Fashion accessories - Total Sales: $119.72, Tax: $5.99
+Invoice 435-13-4908, Fashion accessories - Total Sales: $693.44, Tax: $34.67
+Invoice 339-12-4827, Fashion accessories - Total Sales: $73.96, Tax: $3.70
+Invoice 308-81-0538, Fashion accessories - Total Sales: $292.20, Tax: $14.61
+Invoice 647-50-1224, Fashion accessories - Total Sales: $294.20, Tax: $14.71
+Invoice 747-58-7183, Fashion accessories - Total Sales: $171.81, Tax: $8.59
+Invoice 582-52-8065, Fashion accessories - Total Sales: $488.79, Tax: $24.44
+Invoice 198-66-9832, Fashion accessories - Total Sales: $144.08, Tax: $7.20
+Invoice 514-37-2845, Fashion accessories - Total Sales: $198.50, Tax: $9.93
+Invoice 651-88-7328, Fashion accessories - Total Sales: $591.66, Tax: $29.58
+Invoice 241-11-2261, Fashion accessories - Total Sales: $559.02, Tax: $27.95
+Invoice 339-96-8318, Fashion accessories - Total Sales: $569.17, Tax: $28.46
+Invoice 339-18-7061, Fashion accessories - Total Sales: $185.96, Tax: $9.30
+Invoice 359-90-3665, Fashion accessories - Total Sales: $72.32, Tax: $3.62
+Invoice 379-17-6588, Fashion accessories - Total Sales: $596.10, Tax: $29.81
+Invoice 258-69-7810, Fashion accessories - Total Sales: $184.25, Tax: $9.21
+Invoice 881-41-7302, Fashion accessories - Total Sales: $64.99, Tax: $3.25
+Invoice 484-22-8230, Fashion accessories - Total Sales: $363.23, Tax: $18.16
+Invoice 559-98-9873, Fashion accessories - Total Sales: $375.55, Tax: $18.78
+Invoice 318-12-0304, Fashion accessories - Total Sales: $30.61, Tax: $1.53
+Invoice 789-23-8625, Fashion accessories - Total Sales: $279.66, Tax: $13.98
+Invoice 641-96-3695, Fashion accessories - Total Sales: $260.76, Tax: $13.04
+Invoice 852-62-7105, Fashion accessories - Total Sales: $832.50, Tax: $41.63
+Invoice 598-06-7312, Fashion accessories - Total Sales: $91.35, Tax: $4.57
+Invoice 308-39-1707, Fashion accessories - Total Sales: $12.09, Tax: $0.60
+Invoice 665-63-9737, Fashion accessories - Total Sales: $157.26, Tax: $7.86
+Invoice 574-31-8277, Fashion accessories - Total Sales: $33.63, Tax: $1.68
+Invoice 133-77-3154, Fashion accessories - Total Sales: $240.72, Tax: $12.04
+Invoice 562-12-5430, Fashion accessories - Total Sales: $264.45, Tax: $13.22
+Invoice 491-38-3499, Fashion accessories - Total Sales: $55.45, Tax: $2.77
+Invoice 725-67-2480, Fashion accessories - Total Sales: $352.50, Tax: $17.63
+Invoice 518-17-2983, Fashion accessories - Total Sales: $194.52, Tax: $9.73
+Invoice 588-47-8641, Fashion accessories - Total Sales: $560.40, Tax: $28.02
+Invoice 242-11-3142, Fashion accessories - Total Sales: $167.54, Tax: $8.38
+Invoice 370-96-0655, Fashion accessories - Total Sales: $295.92, Tax: $14.80
+Invoice 105-10-6182, Fashion accessories - Total Sales: $42.96, Tax: $2.15
+Invoice 196-01-2849, Fashion accessories - Total Sales: $513.66, Tax: $25.68
+Invoice 626-43-7888, Fashion accessories - Total Sales: $483.28, Tax: $24.16
+Invoice 191-29-0321, Fashion accessories - Total Sales: $197.70, Tax: $9.89
+Invoice 760-27-5490, Fashion accessories - Total Sales: $124.96, Tax: $6.25
+Invoice 735-32-9839, Fashion accessories - Total Sales: $789.60, Tax: $39.48
+Invoice 857-16-3520, Fashion accessories - Total Sales: $500.22, Tax: $25.01
+Invoice 788-21-5741, Fashion accessories - Total Sales: $136.14, Tax: $6.81
+Invoice 821-14-9046, Fashion accessories - Total Sales: $104.88, Tax: $5.24
+Invoice 418-05-0656, Fashion accessories - Total Sales: $178.92, Tax: $8.95
+Invoice 210-74-9613, Fashion accessories - Total Sales: $389.04, Tax: $19.45
+Invoice 247-11-2470, Fashion accessories - Total Sales: $89.28, Tax: $4.46
+Invoice 756-49-0168, Fashion accessories - Total Sales: $19.70, Tax: $0.99
+Invoice 457-13-1708, Fashion accessories - Total Sales: $652.30, Tax: $32.62
+Invoice 210-30-7976, Fashion accessories - Total Sales: $89.28, Tax: $4.46
+Invoice 288-38-3758, Fashion accessories - Total Sales: $254.61, Tax: $12.73
+Invoice 652-43-6591, Fashion accessories - Total Sales: $778.32, Tax: $38.92
+Invoice 410-67-1709, Fashion accessories - Total Sales: $511.04, Tax: $25.55
+Invoice 801-88-0346, Fashion accessories - Total Sales: $228.18, Tax: $11.41
+Invoice 307-04-2070, Fashion accessories - Total Sales: $30.62, Tax: $1.53
+Invoice 651-96-5970, Fashion accessories - Total Sales: $46.41, Tax: $2.32
+Invoice 605-83-1050, Fashion accessories - Total Sales: $54.36, Tax: $2.72
+Invoice 474-33-8305, Fashion accessories - Total Sales: $471.73, Tax: $23.59
+Invoice 759-29-9521, Fashion accessories - Total Sales: $440.64, Tax: $22.03
+Invoice 189-55-2313, Fashion accessories - Total Sales: $621.80, Tax: $31.09
+Invoice 477-59-2456, Fashion accessories - Total Sales: $318.08, Tax: $15.90
+Invoice 760-53-9233, Fashion accessories - Total Sales: $123.84, Tax: $6.19
+Invoice 807-34-3742, Fashion accessories - Total Sales: $52.38, Tax: $2.62
+Invoice 288-62-1085, Fashion accessories - Total Sales: $192.70, Tax: $9.64
+Invoice 497-36-0989, Fashion accessories - Total Sales: $155.82, Tax: $7.79
+Invoice 896-34-0956, Fashion accessories - Total Sales: $21.32, Tax: $1.07
+Invoice 125-45-2293, Fashion accessories - Total Sales: $594.60, Tax: $29.73
+Invoice 843-73-4724, Fashion accessories - Total Sales: $74.10, Tax: $3.71
+Invoice 409-33-9708, Fashion accessories - Total Sales: $196.96, Tax: $9.85
+Invoice 895-03-6665, Fashion accessories - Total Sales: $328.59, Tax: $16.43
+Invoice 584-66-4073, Fashion accessories - Total Sales: $56.50, Tax: $2.83
+Invoice 885-56-0389, Fashion accessories - Total Sales: $52.35, Tax: $2.62
+Invoice 115-38-7388, Fashion accessories - Total Sales: $81.44, Tax: $4.07
+Invoice 137-74-8729, Fashion accessories - Total Sales: $97.52, Tax: $4.88
+Invoice 607-76-6216, Fashion accessories - Total Sales: $462.45, Tax: $23.12
+Invoice 781-84-8059, Fashion accessories - Total Sales: $425.18, Tax: $21.26
+Invoice 522-57-8364, Fashion accessories - Total Sales: $410.72, Tax: $20.54
+Invoice 749-81-8133, Fashion accessories - Total Sales: $378.68, Tax: $18.93
+Invoice 756-93-1854, Fashion accessories - Total Sales: $166.70, Tax: $8.34
+Invoice 702-83-5291, Fashion accessories - Total Sales: $898.38, Tax: $44.92
+Invoice 676-10-2200, Fashion accessories - Total Sales: $53.78, Tax: $2.69
+Invoice 846-10-0341, Fashion accessories - Total Sales: $297.99, Tax: $14.90
+Invoice 256-58-3609, Fashion accessories - Total Sales: $91.98, Tax: $4.60
+Invoice 593-08-5916, Fashion accessories - Total Sales: $15.50, Tax: $0.78
+Invoice 744-82-9138, Fashion accessories - Total Sales: $172.26, Tax: $8.61
+Invoice 883-69-1285, Fashion accessories - Total Sales: $99.84, Tax: $4.99
+Invoice 374-38-5555, Fashion accessories - Total Sales: $318.55, Tax: $15.93
+Invoice 690-01-6631, Fashion accessories - Total Sales: $174.90, Tax: $8.75
+Invoice 849-09-3807, Fashion accessories - Total Sales: $618.38, Tax: $30.92
+Invoice 692-92-5582, Food and beverages - Total Sales: $164.52, Tax: $8.23
+Invoice 252-56-2699, Food and beverages - Total Sales: $431.90, Tax: $21.60
+Invoice 329-62-1586, Food and beverages - Total Sales: $164.01, Tax: $8.20
+Invoice 145-94-9061, Food and beverages - Total Sales: $441.80, Tax: $22.09
+Invoice 183-56-6882, Food and beverages - Total Sales: $397.68, Tax: $19.88
+Invoice 228-96-1411, Food and beverages - Total Sales: $789.60, Tax: $39.48
+Invoice 727-46-3608, Food and beverages - Total Sales: $180.09, Tax: $9.00
+Invoice 326-78-5178, Food and beverages - Total Sales: $639.80, Tax: $31.99
+Invoice 162-48-8011, Food and beverages - Total Sales: $222.95, Tax: $11.15
+Invoice 393-65-2792, Food and beverages - Total Sales: $894.80, Tax: $44.74
+Invoice 510-95-6347, Food and beverages - Total Sales: $145.56, Tax: $7.28
+Invoice 829-49-1914, Food and beverages - Total Sales: $783.10, Tax: $39.16
+Invoice 847-38-7188, Food and beverages - Total Sales: $290.04, Tax: $14.50
+Invoice 480-63-2856, Food and beverages - Total Sales: $154.00, Tax: $7.70
+Invoice 787-56-0757, Food and beverages - Total Sales: $321.44, Tax: $16.07
+Invoice 633-44-8566, Food and beverages - Total Sales: $345.66, Tax: $17.28
+Invoice 865-92-6136, Food and beverages - Total Sales: $158.25, Tax: $7.91
+Invoice 212-62-1842, Food and beverages - Total Sales: $349.56, Tax: $17.48
+Invoice 588-01-7461, Food and beverages - Total Sales: $305.82, Tax: $15.29
+Invoice 642-32-2990, Food and beverages - Total Sales: $109.60, Tax: $5.48
+Invoice 663-86-9076, Food and beverages - Total Sales: $548.32, Tax: $27.42
+Invoice 488-25-4221, Food and beverages - Total Sales: $30.41, Tax: $1.52
+Invoice 214-17-6927, Food and beverages - Total Sales: $98.88, Tax: $4.94
+Invoice 782-95-9291, Food and beverages - Total Sales: $461.45, Tax: $23.07
+Invoice 894-41-5205, Food and beverages - Total Sales: $345.44, Tax: $17.27
+Invoice 101-17-6199, Food and beverages - Total Sales: $320.53, Tax: $16.03
+Invoice 548-46-9322, Food and beverages - Total Sales: $399.00, Tax: $19.95
+Invoice 796-32-9050, Food and beverages - Total Sales: $307.68, Tax: $15.38
+Invoice 316-55-4634, Food and beverages - Total Sales: $400.25, Tax: $20.01
+Invoice 414-12-7047, Food and beverages - Total Sales: $158.32, Tax: $7.92
+Invoice 175-54-2529, Food and beverages - Total Sales: $177.36, Tax: $8.87
+Invoice 407-63-8975, Food and beverages - Total Sales: $443.28, Tax: $22.16
+Invoice 434-83-9547, Food and beverages - Total Sales: $307.76, Tax: $15.39
+Invoice 895-66-0685, Food and beverages - Total Sales: $54.24, Tax: $2.71
+Invoice 286-43-6208, Food and beverages - Total Sales: $790.20, Tax: $39.51
+Invoice 420-11-4919, Food and beverages - Total Sales: $356.95, Tax: $17.85
+Invoice 677-11-0152, Food and beverages - Total Sales: $839.34, Tax: $41.97
+Invoice 790-29-1172, Food and beverages - Total Sales: $172.02, Tax: $8.60
+Invoice 468-01-2051, Food and beverages - Total Sales: $434.56, Tax: $21.73
+Invoice 213-72-6612, Food and beverages - Total Sales: $86.50, Tax: $4.33
+Invoice 540-11-4336, Food and beverages - Total Sales: $224.46, Tax: $11.22
+Invoice 785-13-7708, Food and beverages - Total Sales: $511.42, Tax: $25.57
+Invoice 845-51-0542, Food and beverages - Total Sales: $418.95, Tax: $20.95
+Invoice 571-94-0759, Food and beverages - Total Sales: $746.00, Tax: $37.30
+Invoice 283-79-9594, Food and beverages - Total Sales: $339.57, Tax: $16.98
+Invoice 316-68-6352, Food and beverages - Total Sales: $72.72, Tax: $3.64
+Invoice 735-06-4124, Food and beverages - Total Sales: $48.61, Tax: $2.43
+Invoice 870-76-1733, Food and beverages - Total Sales: $71.15, Tax: $3.56
+Invoice 174-36-3675, Food and beverages - Total Sales: $198.74, Tax: $9.94
+Invoice 428-83-5800, Food and beverages - Total Sales: $63.24, Tax: $3.16
+Invoice 649-11-3678, Food and beverages - Total Sales: $206.37, Tax: $10.32
+Invoice 815-11-1168, Food and beverages - Total Sales: $498.90, Tax: $24.95
+Invoice 719-76-3868, Food and beverages - Total Sales: $377.04, Tax: $18.85
+Invoice 634-97-8956, Food and beverages - Total Sales: $98.70, Tax: $4.94
+Invoice 442-48-3607, Food and beverages - Total Sales: $46.96, Tax: $2.35
+Invoice 374-17-3652, Food and beverages - Total Sales: $385.38, Tax: $19.27
+Invoice 416-13-5917, Food and beverages - Total Sales: $485.15, Tax: $24.26
+Invoice 889-04-9723, Food and beverages - Total Sales: $356.56, Tax: $17.83
+Invoice 612-36-5536, Food and beverages - Total Sales: $647.68, Tax: $32.38
+Invoice 605-72-4132, Food and beverages - Total Sales: $755.76, Tax: $37.79
+Invoice 471-41-2823, Food and beverages - Total Sales: $199.58, Tax: $9.98
+Invoice 272-27-9238, Food and beverages - Total Sales: $164.96, Tax: $8.25
+Invoice 868-52-7573, Food and beverages - Total Sales: $498.45, Tax: $24.92
+Invoice 153-58-4872, Food and beverages - Total Sales: $299.56, Tax: $14.98
+Invoice 662-72-2873, Food and beverages - Total Sales: $204.70, Tax: $10.24
+Invoice 689-16-9784, Food and beverages - Total Sales: $280.62, Tax: $14.03
+Invoice 596-42-3999, Food and beverages - Total Sales: $127.54, Tax: $6.38
+Invoice 316-01-3952, Food and beverages - Total Sales: $271.35, Tax: $13.57
+Invoice 110-05-6330, Food and beverages - Total Sales: $236.58, Tax: $11.83
+Invoice 732-67-5346, Food and beverages - Total Sales: $68.95, Tax: $3.45
+Invoice 266-76-6436, Food and beverages - Total Sales: $115.80, Tax: $5.79
+Invoice 650-98-6268, Food and beverages - Total Sales: $62.61, Tax: $3.13
+Invoice 574-57-9721, Food and beverages - Total Sales: $86.54, Tax: $4.33
+Invoice 549-96-4200, Food and beverages - Total Sales: $68.16, Tax: $3.41
+Invoice 450-28-2866, Food and beverages - Total Sales: $87.20, Tax: $4.36
+Invoice 235-46-8343, Food and beverages - Total Sales: $276.60, Tax: $13.83
+Invoice 727-17-0390, Food and beverages - Total Sales: $318.05, Tax: $15.90
+Invoice 710-46-4433, Food and beverages - Total Sales: $696.60, Tax: $34.83
+Invoice 729-46-7422, Food and beverages - Total Sales: $35.89, Tax: $1.79
+Invoice 639-76-1242, Food and beverages - Total Sales: $202.60, Tax: $10.13
+Invoice 234-03-4040, Food and beverages - Total Sales: $730.50, Tax: $36.53
+Invoice 320-32-8842, Food and beverages - Total Sales: $22.62, Tax: $1.13
+Invoice 470-32-9057, Food and beverages - Total Sales: $256.70, Tax: $12.84
+Invoice 746-19-0921, Food and beverages - Total Sales: $21.58, Tax: $1.08
+Invoice 541-08-3113, Food and beverages - Total Sales: $527.76, Tax: $26.39
+Invoice 862-59-8517, Food and beverages - Total Sales: $541.44, Tax: $27.07
+Invoice 862-17-9201, Food and beverages - Total Sales: $504.30, Tax: $25.22
+Invoice 534-01-4457, Food and beverages - Total Sales: $490.26, Tax: $24.51
+Invoice 827-44-5872, Food and beverages - Total Sales: $543.60, Tax: $27.18
+Invoice 236-27-1144, Food and beverages - Total Sales: $146.79, Tax: $7.34
+Invoice 358-88-9262, Food and beverages - Total Sales: $524.88, Tax: $26.24
+Invoice 841-18-8232, Food and beverages - Total Sales: $71.20, Tax: $3.56
+Invoice 283-26-5248, Food and beverages - Total Sales: $985.20, Tax: $49.26
+Invoice 712-39-0363, Food and beverages - Total Sales: $249.96, Tax: $12.50
+Invoice 866-99-7614, Food and beverages - Total Sales: $892.00, Tax: $44.60
+Invoice 698-98-5964, Food and beverages - Total Sales: $812.10, Tax: $40.61
+Invoice 239-48-4278, Food and beverages - Total Sales: $70.91, Tax: $3.55
+Invoice 355-34-6244, Food and beverages - Total Sales: $144.78, Tax: $7.24
+Invoice 458-61-0011, Food and beverages - Total Sales: $241.20, Tax: $12.06
+Invoice 592-34-6155, Food and beverages - Total Sales: $127.08, Tax: $6.35
+Invoice 390-31-6381, Food and beverages - Total Sales: $81.66, Tax: $4.08
+Invoice 278-86-2735, Food and beverages - Total Sales: $157.02, Tax: $7.85
+Invoice 152-68-2907, Food and beverages - Total Sales: $156.60, Tax: $7.83
+Invoice 373-09-4567, Food and beverages - Total Sales: $775.60, Tax: $38.78
+Invoice 544-32-5024, Food and beverages - Total Sales: $199.16, Tax: $9.96
+Invoice 349-97-8902, Food and beverages - Total Sales: $115.78, Tax: $5.79
+Invoice 277-35-5865, Food and beverages - Total Sales: $890.73, Tax: $44.54
+Invoice 443-59-0061, Food and beverages - Total Sales: $674.50, Tax: $33.73
+Invoice 828-46-6863, Food and beverages - Total Sales: $591.18, Tax: $29.56
+Invoice 420-97-3340, Food and beverages - Total Sales: $215.04, Tax: $10.75
+Invoice 436-54-4512, Food and beverages - Total Sales: $91.61, Tax: $4.58
+Invoice 135-13-8269, Food and beverages - Total Sales: $157.76, Tax: $7.89
+Invoice 589-02-8023, Food and beverages - Total Sales: $167.54, Tax: $8.38
+Invoice 182-88-2763, Food and beverages - Total Sales: $239.73, Tax: $11.99
+Invoice 364-33-8584, Food and beverages - Total Sales: $88.15, Tax: $4.41
+Invoice 695-09-5146, Food and beverages - Total Sales: $296.37, Tax: $14.82
+Invoice 131-15-8856, Food and beverages - Total Sales: $580.16, Tax: $29.01
+Invoice 641-51-2661, Food and beverages - Total Sales: $871.00, Tax: $43.55
+Invoice 779-42-2410, Food and beverages - Total Sales: $173.22, Tax: $8.66
+Invoice 642-61-4706, Food and beverages - Total Sales: $186.80, Tax: $9.34
+Invoice 274-05-5470, Food and beverages - Total Sales: $293.88, Tax: $14.69
+Invoice 130-67-4723, Food and beverages - Total Sales: $291.00, Tax: $14.55
+Invoice 305-03-2383, Food and beverages - Total Sales: $201.30, Tax: $10.07
+Invoice 266-20-6657, Food and beverages - Total Sales: $385.28, Tax: $19.26
+Invoice 372-62-5264, Food and beverages - Total Sales: $473.40, Tax: $23.67
+Invoice 176-64-7711, Food and beverages - Total Sales: $96.96, Tax: $4.85
+Invoice 162-65-8559, Food and beverages - Total Sales: $68.98, Tax: $3.45
+Invoice 786-94-2700, Food and beverages - Total Sales: $483.72, Tax: $24.19
+Invoice 592-46-1692, Food and beverages - Total Sales: $257.39, Tax: $12.87
+Invoice 434-35-9162, Food and beverages - Total Sales: $93.36, Tax: $4.67
+Invoice 238-45-6950, Food and beverages - Total Sales: $53.72, Tax: $2.69
+Invoice 451-73-2711, Food and beverages - Total Sales: $84.83, Tax: $4.24
+Invoice 390-17-5806, Food and beverages - Total Sales: $38.42, Tax: $1.92
+Invoice 585-86-8361, Food and beverages - Total Sales: $136.40, Tax: $6.82
+Invoice 250-17-5703, Food and beverages - Total Sales: $188.50, Tax: $9.43
+Invoice 156-95-3964, Food and beverages - Total Sales: $221.56, Tax: $11.08
+Invoice 842-40-8179, Food and beverages - Total Sales: $772.00, Tax: $38.60
+Invoice 471-06-8611, Food and beverages - Total Sales: $52.42, Tax: $2.62
+Invoice 200-16-5952, Food and beverages - Total Sales: $131.30, Tax: $6.57
+Invoice 120-54-2248, Food and beverages - Total Sales: $144.30, Tax: $7.22
+Invoice 499-27-7781, Food and beverages - Total Sales: $425.68, Tax: $21.28
+Invoice 832-51-6761, Food and beverages - Total Sales: $271.04, Tax: $13.55
+Invoice 190-59-3964, Food and beverages - Total Sales: $235.80, Tax: $11.79
+Invoice 549-23-9016, Food and beverages - Total Sales: $29.74, Tax: $1.49
+Invoice 845-94-6841, Food and beverages - Total Sales: $655.92, Tax: $32.80
+Invoice 770-42-8960, Food and beverages - Total Sales: $168.96, Tax: $8.45
+Invoice 316-66-3011, Food and beverages - Total Sales: $428.67, Tax: $21.43
+Invoice 631-34-1880, Food and beverages - Total Sales: $72.93, Tax: $3.65
+Invoice 873-14-6353, Food and beverages - Total Sales: $173.74, Tax: $8.69
+Invoice 490-95-0021, Food and beverages - Total Sales: $332.10, Tax: $16.61
+Invoice 548-48-3156, Food and beverages - Total Sales: $166.68, Tax: $8.33
+Invoice 325-89-4209, Food and beverages - Total Sales: $87.90, Tax: $4.40
+Invoice 409-49-6995, Food and beverages - Total Sales: $283.62, Tax: $14.18
+Invoice 146-09-5432, Food and beverages - Total Sales: $315.36, Tax: $15.77
+Invoice 865-41-9075, Food and beverages - Total Sales: $80.71, Tax: $4.04
+Invoice 186-71-5196, Food and beverages - Total Sales: $159.08, Tax: $7.95
+Invoice 313-66-9943, Food and beverages - Total Sales: $87.45, Tax: $4.37
+Invoice 459-45-2396, Food and beverages - Total Sales: $298.80, Tax: $14.94
+Invoice 243-55-8457, Food and beverages - Total Sales: $744.40, Tax: $37.22
+Invoice 500-02-2261, Food and beverages - Total Sales: $343.74, Tax: $17.19
+Invoice 720-72-2436, Food and beverages - Total Sales: $266.08, Tax: $13.30
+Invoice 365-16-4334, Food and beverages - Total Sales: $211.44, Tax: $10.57
+Invoice 574-80-1489, Food and beverages - Total Sales: $251.40, Tax: $12.57
+Invoice 784-08-0310, Food and beverages - Total Sales: $84.16, Tax: $4.21
+Invoice 577-34-7579, Food and beverages - Total Sales: $454.41, Tax: $22.72
+Invoice 384-59-6655, Food and beverages - Total Sales: $887.94, Tax: $44.40
+Invoice 794-42-3736, Food and beverages - Total Sales: $66.66, Tax: $3.33
+Invoice 746-04-1077, Food and beverages - Total Sales: $846.30, Tax: $42.32
+Invoice 221-25-5073, Food and beverages - Total Sales: $298.64, Tax: $14.93
+Invoice 518-71-6847, Food and beverages - Total Sales: $159.60, Tax: $7.98
+Invoice 151-33-7434, Food and beverages - Total Sales: $67.77, Tax: $3.39
+Invoice 728-47-9078, Food and beverages - Total Sales: $238.36, Tax: $11.92
+Invoice 886-18-2897, Food and beverages - Total Sales: $282.80, Tax: $14.14
+Invoice 727-02-1313, Food and beverages - Total Sales: $31.84, Tax: $1.59
+Invoice 750-67-8428, Health and beauty - Total Sales: $522.83, Tax: $26.14
+Invoice 123-19-1176, Health and beauty - Total Sales: $465.76, Tax: $23.29
+Invoice 665-32-9167, Health and beauty - Total Sales: $72.52, Tax: $3.63
+Invoice 829-34-3910, Health and beauty - Total Sales: $713.80, Tax: $35.69
+Invoice 656-95-9349, Health and beauty - Total Sales: $482.51, Tax: $24.13
+Invoice 371-85-5789, Health and beauty - Total Sales: $263.94, Tax: $13.20
+Invoice 848-62-7243, Health and beauty - Total Sales: $224.01, Tax: $11.20
+Invoice 595-11-5460, Health and beauty - Total Sales: $193.16, Tax: $9.66
+Invoice 333-73-7901, Health and beauty - Total Sales: $439.36, Tax: $21.97
+Invoice 617-15-4209, Health and beauty - Total Sales: $30.74, Tax: $1.54
+Invoice 370-41-7321, Health and beauty - Total Sales: $510.21, Tax: $25.51
+Invoice 635-40-6220, Health and beauty - Total Sales: $716.80, Tax: $35.84
+Invoice 853-23-2453, Health and beauty - Total Sales: $302.96, Tax: $15.15
+Invoice 877-22-3308, Health and beauty - Total Sales: $158.70, Tax: $7.94
+Invoice 838-78-4295, Health and beauty - Total Sales: $66.94, Tax: $3.35
+Invoice 382-03-4532, Health and beauty - Total Sales: $18.33, Tax: $0.92
+Invoice 756-01-7507, Health and beauty - Total Sales: $101.90, Tax: $5.10
+Invoice 870-72-4431, Health and beauty - Total Sales: $595.14, Tax: $29.76
+Invoice 318-68-5053, Health and beauty - Total Sales: $461.94, Tax: $23.10
+Invoice 152-08-9985, Health and beauty - Total Sales: $579.24, Tax: $28.96
+Invoice 512-91-0811, Health and beauty - Total Sales: $89.75, Tax: $4.49
+Invoice 766-85-7061, Health and beauty - Total Sales: $878.70, Tax: $43.94
+Invoice 716-39-1409, Health and beauty - Total Sales: $212.45, Tax: $10.62
+Invoice 210-67-5886, Health and beauty - Total Sales: $294.63, Tax: $14.73
+Invoice 483-71-1164, Health and beauty - Total Sales: $487.80, Tax: $24.39
+Invoice 280-17-4359, Health and beauty - Total Sales: $905.00, Tax: $45.25
+Invoice 338-65-2210, Health and beauty - Total Sales: $686.00, Tax: $34.30
+Invoice 458-41-1477, Health and beauty - Total Sales: $277.56, Tax: $13.88
+Invoice 568-90-5112, Health and beauty - Total Sales: $264.56, Tax: $13.23
+Invoice 238-49-0436, Health and beauty - Total Sales: $259.68, Tax: $12.98
+Invoice 743-04-1105, Health and beauty - Total Sales: $874.98, Tax: $43.75
+Invoice 505-02-0892, Health and beauty - Total Sales: $340.56, Tax: $17.03
+Invoice 249-42-3782, Health and beauty - Total Sales: $350.05, Tax: $17.50
+Invoice 342-65-4817, Health and beauty - Total Sales: $260.40, Tax: $13.02
+Invoice 824-88-3614, Health and beauty - Total Sales: $274.48, Tax: $13.72
+Invoice 848-24-9445, Health and beauty - Total Sales: $87.40, Tax: $4.37
+Invoice 699-01-4164, Health and beauty - Total Sales: $166.00, Tax: $8.30
+Invoice 875-46-5808, Health and beauty - Total Sales: $259.00, Tax: $12.95
+Invoice 749-24-1565, Health and beauty - Total Sales: $207.27, Tax: $10.36
+Invoice 836-82-5858, Health and beauty - Total Sales: $624.33, Tax: $31.22
+Invoice 418-02-5978, Health and beauty - Total Sales: $756.81, Tax: $37.84
+Invoice 157-13-5295, Health and beauty - Total Sales: $519.40, Tax: $25.97
+Invoice 211-30-9270, Health and beauty - Total Sales: $87.05, Tax: $4.35
+Invoice 448-81-5016, Health and beauty - Total Sales: $119.54, Tax: $5.98
+Invoice 687-15-1097, Health and beauty - Total Sales: $42.24, Tax: $2.11
+Invoice 477-24-6490, Health and beauty - Total Sales: $598.26, Tax: $29.91
+Invoice 667-92-0055, Health and beauty - Total Sales: $598.98, Tax: $29.95
+Invoice 565-17-3836, Health and beauty - Total Sales: $190.68, Tax: $9.53
+Invoice 498-41-1961, Health and beauty - Total Sales: $333.40, Tax: $16.67
+Invoice 585-03-5943, Health and beauty - Total Sales: $181.10, Tax: $9.06
+Invoice 573-10-3877, Health and beauty - Total Sales: $39.01, Tax: $1.95
+Invoice 423-64-4619, Health and beauty - Total Sales: $139.95, Tax: $7.00
+Invoice 704-20-4138, Health and beauty - Total Sales: $207.69, Tax: $10.38
+Invoice 787-15-1757, Health and beauty - Total Sales: $176.28, Tax: $8.81
+Invoice 622-20-1945, Health and beauty - Total Sales: $39.42, Tax: $1.97
+Invoice 372-94-8041, Health and beauty - Total Sales: $91.56, Tax: $4.58
+Invoice 730-61-8757, Health and beauty - Total Sales: $204.52, Tax: $10.23
+Invoice 433-75-6987, Health and beauty - Total Sales: $391.79, Tax: $19.59
+Invoice 873-95-4984, Health and beauty - Total Sales: $538.30, Tax: $26.92
+Invoice 400-45-1220, Health and beauty - Total Sales: $135.00, Tax: $6.75
+Invoice 725-56-0833, Health and beauty - Total Sales: $323.20, Tax: $16.16
+Invoice 885-17-6250, Health and beauty - Total Sales: $79.74, Tax: $3.99
+Invoice 726-27-2396, Health and beauty - Total Sales: $387.50, Tax: $19.38
+Invoice 793-10-3222, Health and beauty - Total Sales: $246.36, Tax: $12.32
+Invoice 244-08-0162, Health and beauty - Total Sales: $342.10, Tax: $17.11
+Invoice 132-23-6451, Health and beauty - Total Sales: $104.85, Tax: $5.24
+Invoice 268-03-6164, Health and beauty - Total Sales: $96.11, Tax: $4.81
+Invoice 186-09-3669, Health and beauty - Total Sales: $81.51, Tax: $4.08
+Invoice 848-07-1692, Health and beauty - Total Sales: $114.44, Tax: $5.72
+Invoice 269-10-8440, Health and beauty - Total Sales: $372.19, Tax: $18.61
+Invoice 390-80-5128, Health and beauty - Total Sales: $19.15, Tax: $0.96
+Invoice 296-11-7041, Health and beauty - Total Sales: $27.07, Tax: $1.35
+Invoice 568-88-3448, Health and beauty - Total Sales: $25.00, Tax: $1.25
+Invoice 440-59-5691, Health and beauty - Total Sales: $260.05, Tax: $13.00
+Invoice 731-59-7531, Health and beauty - Total Sales: $580.56, Tax: $29.03
+Invoice 502-05-1910, Health and beauty - Total Sales: $195.54, Tax: $9.78
+Invoice 608-04-3797, Health and beauty - Total Sales: $202.56, Tax: $10.13
+Invoice 291-21-5991, Health and beauty - Total Sales: $306.45, Tax: $15.32
+Invoice 425-85-2085, Health and beauty - Total Sales: $274.30, Tax: $13.72
+Invoice 133-14-7229, Health and beauty - Total Sales: $125.74, Tax: $6.29
+Invoice 287-83-1405, Health and beauty - Total Sales: $152.58, Tax: $7.63
+Invoice 343-87-0864, Health and beauty - Total Sales: $75.88, Tax: $3.79
+Invoice 210-57-1719, Health and beauty - Total Sales: $524.16, Tax: $26.21
+Invoice 797-88-0493, Health and beauty - Total Sales: $257.08, Tax: $12.85
+Invoice 207-73-1363, Health and beauty - Total Sales: $139.02, Tax: $6.95
+Invoice 443-82-0585, Health and beauty - Total Sales: $310.72, Tax: $15.54
+Invoice 127-47-6963, Health and beauty - Total Sales: $206.84, Tax: $10.34
+Invoice 227-50-3718, Health and beauty - Total Sales: $73.10, Tax: $3.66
+Invoice 302-15-2162, Health and beauty - Total Sales: $279.18, Tax: $13.96
+Invoice 470-31-3286, Health and beauty - Total Sales: $44.46, Tax: $2.22
+Invoice 628-90-8624, Health and beauty - Total Sales: $825.80, Tax: $41.29
+Invoice 188-55-0967, Health and beauty - Total Sales: $664.70, Tax: $33.24
+Invoice 610-46-4100, Health and beauty - Total Sales: $202.65, Tax: $10.13
+Invoice 778-89-7974, Health and beauty - Total Sales: $421.26, Tax: $21.06
+Invoice 563-47-4072, Health and beauty - Total Sales: $334.86, Tax: $16.74
+Invoice 190-14-3147, Health and beauty - Total Sales: $71.88, Tax: $3.59
+Invoice 408-66-6712, Health and beauty - Total Sales: $286.26, Tax: $14.31
+Invoice 576-31-4774, Health and beauty - Total Sales: $220.23, Tax: $11.01
+Invoice 556-41-6224, Health and beauty - Total Sales: $269.12, Tax: $13.46
+Invoice 648-94-3045, Health and beauty - Total Sales: $589.50, Tax: $29.48
+Invoice 689-05-1884, Health and beauty - Total Sales: $486.30, Tax: $24.32
+Invoice 729-06-2010, Health and beauty - Total Sales: $724.23, Tax: $36.21
+Invoice 186-79-9562, Health and beauty - Total Sales: $502.39, Tax: $25.12
+Invoice 268-20-3585, Health and beauty - Total Sales: $124.65, Tax: $6.23
+Invoice 258-92-7466, Health and beauty - Total Sales: $178.40, Tax: $8.92
+Invoice 149-14-0304, Health and beauty - Total Sales: $228.00, Tax: $11.40
+Invoice 635-28-5728, Health and beauty - Total Sales: $168.00, Tax: $8.40
+Invoice 607-65-2441, Health and beauty - Total Sales: $819.50, Tax: $40.98
+Invoice 314-23-4520, Health and beauty - Total Sales: $568.61, Tax: $28.43
+Invoice 587-73-4862, Health and beauty - Total Sales: $53.45, Tax: $2.67
+Invoice 787-87-2010, Health and beauty - Total Sales: $222.00, Tax: $11.10
+Invoice 759-98-4285, Health and beauty - Total Sales: $601.09, Tax: $30.05
+Invoice 102-77-2261, Health and beauty - Total Sales: $457.17, Tax: $22.86
+Invoice 629-42-4133, Health and beauty - Total Sales: $174.40, Tax: $8.72
+Invoice 516-77-6464, Health and beauty - Total Sales: $50.80, Tax: $2.54
+Invoice 790-38-4466, Health and beauty - Total Sales: $54.95, Tax: $2.75
+Invoice 704-10-4056, Health and beauty - Total Sales: $181.41, Tax: $9.07
+Invoice 400-80-4065, Health and beauty - Total Sales: $274.20, Tax: $13.71
+Invoice 359-94-5395, Health and beauty - Total Sales: $92.78, Tax: $4.64
+Invoice 559-61-5987, Health and beauty - Total Sales: $17.75, Tax: $0.89
+Invoice 565-91-4567, Health and beauty - Total Sales: $86.00, Tax: $4.30
+Invoice 869-11-3082, Health and beauty - Total Sales: $384.64, Tax: $19.23
+Invoice 276-75-6884, Health and beauty - Total Sales: $206.13, Tax: $10.31
+Invoice 222-42-0244, Health and beauty - Total Sales: $648.99, Tax: $32.45
+Invoice 636-17-0325, Health and beauty - Total Sales: $250.28, Tax: $12.51
+Invoice 528-14-9470, Health and beauty - Total Sales: $91.30, Tax: $4.57
+Invoice 658-66-3967, Health and beauty - Total Sales: $372.33, Tax: $18.62
+Invoice 160-22-2687, Health and beauty - Total Sales: $479.75, Tax: $23.99
+Invoice 234-36-2483, Health and beauty - Total Sales: $345.54, Tax: $17.28
+Invoice 176-78-1170, Health and beauty - Total Sales: $101.43, Tax: $5.07
+Invoice 101-81-4070, Health and beauty - Total Sales: $125.64, Tax: $6.28
+Invoice 389-70-2397, Health and beauty - Total Sales: $418.30, Tax: $20.92
+Invoice 699-88-1972, Health and beauty - Total Sales: $793.28, Tax: $39.66
+Invoice 725-54-0677, Health and beauty - Total Sales: $599.20, Tax: $29.96
+Invoice 595-94-9924, Health and beauty - Total Sales: $138.65, Tax: $6.93
+Invoice 545-07-8534, Health and beauty - Total Sales: $116.64, Tax: $5.83
+Invoice 450-42-3339, Health and beauty - Total Sales: $846.10, Tax: $42.31
+Invoice 851-98-3555, Health and beauty - Total Sales: $414.40, Tax: $20.72
+Invoice 397-25-8725, Health and beauty - Total Sales: $356.58, Tax: $17.83
+Invoice 458-10-8612, Health and beauty - Total Sales: $448.56, Tax: $22.43
+Invoice 433-08-7822, Health and beauty - Total Sales: $552.23, Tax: $27.61
+Invoice 131-70-8179, Health and beauty - Total Sales: $276.27, Tax: $13.81
+Invoice 449-16-6770, Health and beauty - Total Sales: $253.95, Tax: $12.70
+Invoice 333-23-2632, Health and beauty - Total Sales: $70.56, Tax: $3.53
+Invoice 503-21-4385, Health and beauty - Total Sales: $119.73, Tax: $5.99
+Invoice 605-03-2706, Health and beauty - Total Sales: $47.40, Tax: $2.37
+Invoice 809-46-1866, Health and beauty - Total Sales: $232.60, Tax: $11.63
+Invoice 148-41-7930, Health and beauty - Total Sales: $699.72, Tax: $34.99
+Invoice 764-44-8999, Health and beauty - Total Sales: $29.52, Tax: $1.48
+Invoice 552-44-5977, Health and beauty - Total Sales: $496.00, Tax: $24.80
+Invoice 430-53-4718, Health and beauty - Total Sales: $602.96, Tax: $30.15
+Invoice 233-67-5758, Health and beauty - Total Sales: $40.35, Tax: $2.02
+Invoice 631-41-3108, Home and lifestyle - Total Sales: $324.31, Tax: $16.22
+Invoice 315-22-5665, Home and lifestyle - Total Sales: $735.60, Tax: $36.78
+Invoice 319-50-3348, Home and lifestyle - Total Sales: $80.60, Tax: $4.03
+Invoice 273-16-6619, Home and lifestyle - Total Sales: $66.40, Tax: $3.32
+Invoice 227-03-5010, Home and lifestyle - Total Sales: $420.72, Tax: $21.04
+Invoice 777-82-7220, Home and lifestyle - Total Sales: $240.96, Tax: $12.05
+Invoice 280-35-5823, Home and lifestyle - Total Sales: $86.72, Tax: $4.34
+Invoice 554-53-8700, Home and lifestyle - Total Sales: $112.22, Tax: $5.61
+Invoice 242-55-6721, Home and lifestyle - Total Sales: $32.32, Tax: $1.62
+Invoice 106-35-6779, Home and lifestyle - Total Sales: $88.68, Tax: $4.43
+Invoice 817-48-8732, Home and lifestyle - Total Sales: $723.50, Tax: $36.18
+Invoice 803-83-5989, Home and lifestyle - Total Sales: $334.38, Tax: $16.72
+Invoice 287-21-9091, Home and lifestyle - Total Sales: $672.03, Tax: $33.60
+Invoice 565-80-5980, Home and lifestyle - Total Sales: $189.52, Tax: $9.48
+Invoice 733-01-9107, Home and lifestyle - Total Sales: $496.20, Tax: $24.81
+Invoice 645-44-1170, Home and lifestyle - Total Sales: $522.63, Tax: $26.13
+Invoice 237-01-6122, Home and lifestyle - Total Sales: $727.11, Tax: $36.36
+Invoice 378-24-2715, Home and lifestyle - Total Sales: $106.88, Tax: $5.34
+Invoice 336-78-2147, Home and lifestyle - Total Sales: $511.28, Tax: $25.56
+Invoice 668-90-8900, Home and lifestyle - Total Sales: $655.83, Tax: $32.79
+Invoice 354-39-5160, Home and lifestyle - Total Sales: $206.52, Tax: $10.33
+Invoice 239-10-7476, Home and lifestyle - Total Sales: $467.70, Tax: $23.39
+Invoice 262-47-2794, Home and lifestyle - Total Sales: $574.88, Tax: $28.74
+Invoice 307-85-2293, Home and lifestyle - Total Sales: $251.40, Tax: $12.57
+Invoice 234-65-2137, Home and lifestyle - Total Sales: $955.80, Tax: $47.79
+Invoice 827-26-2100, Home and lifestyle - Total Sales: $304.56, Tax: $15.23
+Invoice 305-14-0245, Home and lifestyle - Total Sales: $755.92, Tax: $37.80
+Invoice 732-04-5373, Home and lifestyle - Total Sales: $185.88, Tax: $9.29
+Invoice 400-60-7251, Home and lifestyle - Total Sales: $74.07, Tax: $3.70
+Invoice 593-65-1552, Home and lifestyle - Total Sales: $279.24, Tax: $13.96
+Invoice 284-34-9626, Home and lifestyle - Total Sales: $231.12, Tax: $11.56
+Invoice 641-43-2399, Home and lifestyle - Total Sales: $102.20, Tax: $5.11
+Invoice 856-22-8149, Home and lifestyle - Total Sales: $25.29, Tax: $1.26
+Invoice 394-43-4238, Home and lifestyle - Total Sales: $88.85, Tax: $4.44
+Invoice 263-87-5680, Home and lifestyle - Total Sales: $285.30, Tax: $14.27
+Invoice 142-63-6033, Home and lifestyle - Total Sales: $461.80, Tax: $23.09
+Invoice 802-43-8934, Home and lifestyle - Total Sales: $18.28, Tax: $0.91
+Invoice 721-86-6247, Home and lifestyle - Total Sales: $507.36, Tax: $25.37
+Invoice 217-58-1179, Home and lifestyle - Total Sales: $250.60, Tax: $12.53
+Invoice 376-02-8238, Home and lifestyle - Total Sales: $750.96, Tax: $37.55
+Invoice 530-90-9855, Home and lifestyle - Total Sales: $380.72, Tax: $19.04
+Invoice 290-68-2984, Home and lifestyle - Total Sales: $95.00, Tax: $4.75
+Invoice 704-11-6354, Home and lifestyle - Total Sales: $471.20, Tax: $23.56
+Invoice 729-09-9681, Home and lifestyle - Total Sales: $155.46, Tax: $7.77
+Invoice 808-65-0703, Home and lifestyle - Total Sales: $141.88, Tax: $7.09
+Invoice 144-51-6085, Home and lifestyle - Total Sales: $282.96, Tax: $14.15
+Invoice 731-14-2199, Home and lifestyle - Total Sales: $355.40, Tax: $17.77
+Invoice 126-54-1082, Home and lifestyle - Total Sales: $193.86, Tax: $9.69
+Invoice 633-91-1052, Home and lifestyle - Total Sales: $24.06, Tax: $1.20
+Invoice 526-86-8552, Home and lifestyle - Total Sales: $218.20, Tax: $10.91
+Invoice 136-08-6195, Home and lifestyle - Total Sales: $559.68, Tax: $27.98
+Invoice 523-38-0215, Home and lifestyle - Total Sales: $37.00, Tax: $1.85
+Invoice 593-95-4461, Home and lifestyle - Total Sales: $74.86, Tax: $3.74
+Invoice 430-60-3493, Home and lifestyle - Total Sales: $664.16, Tax: $33.21
+Invoice 744-02-5987, Home and lifestyle - Total Sales: $470.28, Tax: $23.51
+Invoice 307-83-9164, Home and lifestyle - Total Sales: $240.04, Tax: $12.00
+Invoice 779-06-0012, Home and lifestyle - Total Sales: $88.61, Tax: $4.43
+Invoice 803-17-8013, Home and lifestyle - Total Sales: $710.32, Tax: $35.52
+Invoice 746-54-5508, Home and lifestyle - Total Sales: $129.12, Tax: $6.46
+Invoice 868-81-1752, Home and lifestyle - Total Sales: $198.18, Tax: $9.91
+Invoice 725-96-3778, Home and lifestyle - Total Sales: $714.00, Tax: $35.70
+Invoice 565-67-6697, Home and lifestyle - Total Sales: $243.00, Tax: $12.15
+Invoice 462-67-9126, Home and lifestyle - Total Sales: $439.32, Tax: $21.97
+Invoice 468-88-0009, Home and lifestyle - Total Sales: $263.76, Tax: $13.19
+Invoice 730-70-9830, Home and lifestyle - Total Sales: $420.66, Tax: $21.03
+Invoice 422-29-8786, Home and lifestyle - Total Sales: $335.45, Tax: $16.77
+Invoice 843-01-4703, Home and lifestyle - Total Sales: $318.42, Tax: $15.92
+Invoice 760-54-1821, Home and lifestyle - Total Sales: $122.31, Tax: $6.12
+Invoice 651-61-0874, Home and lifestyle - Total Sales: $184.88, Tax: $9.24
+Invoice 236-86-3015, Home and lifestyle - Total Sales: $13.98, Tax: $0.70
+Invoice 256-08-8343, Home and lifestyle - Total Sales: $226.12, Tax: $11.31
+Invoice 472-15-9636, Home and lifestyle - Total Sales: $407.44, Tax: $20.37
+Invoice 750-57-9686, Home and lifestyle - Total Sales: $181.52, Tax: $9.08
+Invoice 325-77-6186, Home and lifestyle - Total Sales: $906.50, Tax: $45.33
+Invoice 345-08-4992, Home and lifestyle - Total Sales: $203.94, Tax: $10.20
+Invoice 138-17-5109, Home and lifestyle - Total Sales: $802.89, Tax: $40.14
+Invoice 767-05-1286, Home and lifestyle - Total Sales: $502.62, Tax: $25.13
+Invoice 305-18-3552, Home and lifestyle - Total Sales: $603.80, Tax: $30.19
+Invoice 556-72-8512, Home and lifestyle - Total Sales: $22.96, Tax: $1.15
+Invoice 627-95-3243, Home and lifestyle - Total Sales: $699.12, Tax: $34.96
+Invoice 148-82-2527, Home and lifestyle - Total Sales: $121.20, Tax: $6.06
+Invoice 620-02-2046, Home and lifestyle - Total Sales: $138.80, Tax: $6.94
+Invoice 602-80-9671, Home and lifestyle - Total Sales: $95.70, Tax: $4.79
+Invoice 209-61-0206, Home and lifestyle - Total Sales: $214.55, Tax: $10.73
+Invoice 521-18-7827, Home and lifestyle - Total Sales: $196.95, Tax: $9.85
+Invoice 220-28-1851, Home and lifestyle - Total Sales: $69.46, Tax: $3.47
+Invoice 451-28-5717, Home and lifestyle - Total Sales: $499.02, Tax: $24.95
+Invoice 609-81-8548, Home and lifestyle - Total Sales: $224.64, Tax: $11.23
+Invoice 892-05-6689, Home and lifestyle - Total Sales: $141.60, Tax: $7.08
+Invoice 583-41-4548, Home and lifestyle - Total Sales: $116.69, Tax: $5.83
+Invoice 643-38-7867, Home and lifestyle - Total Sales: $97.94, Tax: $4.90
+Invoice 460-35-4390, Home and lifestyle - Total Sales: $92.04, Tax: $4.60
+Invoice 701-23-5550, Home and lifestyle - Total Sales: $155.24, Tax: $7.76
+Invoice 356-44-8813, Home and lifestyle - Total Sales: $112.44, Tax: $5.62
+Invoice 218-59-9410, Home and lifestyle - Total Sales: $217.26, Tax: $10.86
+Invoice 834-83-1826, Home and lifestyle - Total Sales: $410.20, Tax: $20.51
+Invoice 788-07-8452, Home and lifestyle - Total Sales: $169.68, Tax: $8.48
+Invoice 334-64-2006, Home and lifestyle - Total Sales: $140.64, Tax: $7.03
+Invoice 830-58-2383, Home and lifestyle - Total Sales: $127.00, Tax: $6.35
+Invoice 670-79-6321, Home and lifestyle - Total Sales: $662.13, Tax: $33.11
+Invoice 856-66-2701, Home and lifestyle - Total Sales: $159.90, Tax: $8.00
+Invoice 420-04-7590, Home and lifestyle - Total Sales: $299.10, Tax: $14.96
+Invoice 706-36-6154, Home and lifestyle - Total Sales: $174.24, Tax: $8.71
+Invoice 742-04-5161, Home and lifestyle - Total Sales: $727.80, Tax: $36.39
+Invoice 241-96-5076, Home and lifestyle - Total Sales: $98.20, Tax: $4.91
+Invoice 648-83-1321, Home and lifestyle - Total Sales: $635.60, Tax: $31.78
+Invoice 800-09-8606, Home and lifestyle - Total Sales: $436.85, Tax: $21.84
+Invoice 826-58-8051, Home and lifestyle - Total Sales: $248.76, Tax: $12.44
+Invoice 751-41-9720, Home and lifestyle - Total Sales: $975.00, Tax: $48.75
+Invoice 640-48-5028, Home and lifestyle - Total Sales: $795.51, Tax: $39.78
+Invoice 728-88-7867, Home and lifestyle - Total Sales: $302.12, Tax: $15.11
+Invoice 776-68-1096, Home and lifestyle - Total Sales: $132.36, Tax: $6.62
+Invoice 442-44-6497, Home and lifestyle - Total Sales: $166.71, Tax: $8.34
+Invoice 299-29-0180, Home and lifestyle - Total Sales: $365.26, Tax: $18.26
+Invoice 386-27-7606, Home and lifestyle - Total Sales: $568.40, Tax: $28.42
+Invoice 805-86-0265, Home and lifestyle - Total Sales: $845.64, Tax: $42.28
+Invoice 733-29-1227, Home and lifestyle - Total Sales: $389.27, Tax: $19.46
+Invoice 546-80-2899, Home and lifestyle - Total Sales: $75.38, Tax: $3.77
+Invoice 664-14-2882, Home and lifestyle - Total Sales: $52.65, Tax: $2.63
+Invoice 487-79-6868, Home and lifestyle - Total Sales: $110.61, Tax: $5.53
+Invoice 775-72-1988, Home and lifestyle - Total Sales: $366.40, Tax: $18.32
+Invoice 406-46-7107, Home and lifestyle - Total Sales: $579.12, Tax: $28.96
+Invoice 593-14-4239, Home and lifestyle - Total Sales: $763.68, Tax: $38.18
+Invoice 886-54-6089, Home and lifestyle - Total Sales: $68.58, Tax: $3.43
+Invoice 468-99-7231, Home and lifestyle - Total Sales: $352.08, Tax: $17.60
+Invoice 744-16-7898, Home and lifestyle - Total Sales: $973.70, Tax: $48.69
+Invoice 443-60-9639, Home and lifestyle - Total Sales: $60.87, Tax: $3.04
+Invoice 401-09-4232, Home and lifestyle - Total Sales: $433.45, Tax: $21.67
+Invoice 220-68-6701, Home and lifestyle - Total Sales: $309.88, Tax: $15.49
+Invoice 186-43-8965, Home and lifestyle - Total Sales: $95.36, Tax: $4.77
+Invoice 427-45-9297, Home and lifestyle - Total Sales: $285.11, Tax: $14.26
+Invoice 748-45-2862, Home and lifestyle - Total Sales: $113.24, Tax: $5.66
+Invoice 848-95-6252, Home and lifestyle - Total Sales: $86.27, Tax: $4.31
+Invoice 152-03-4217, Home and lifestyle - Total Sales: $101.52, Tax: $5.08
+Invoice 533-66-5566, Home and lifestyle - Total Sales: $357.49, Tax: $17.87
+Invoice 737-88-5876, Home and lifestyle - Total Sales: $93.16, Tax: $4.66
+Invoice 154-87-7367, Home and lifestyle - Total Sales: $522.08, Tax: $26.10
+Invoice 291-55-6563, Home and lifestyle - Total Sales: $206.52, Tax: $10.33
+Invoice 509-10-0516, Home and lifestyle - Total Sales: $183.88, Tax: $9.19
+Invoice 118-62-1812, Home and lifestyle - Total Sales: $313.52, Tax: $15.68
+Invoice 624-01-8356, Home and lifestyle - Total Sales: $490.10, Tax: $24.51
+Invoice 453-33-6436, Home and lifestyle - Total Sales: $744.96, Tax: $37.25
+Invoice 777-67-2495, Home and lifestyle - Total Sales: $206.91, Tax: $10.35
+Invoice 246-55-6923, Home and lifestyle - Total Sales: $322.11, Tax: $16.11
+Invoice 181-82-6255, Home and lifestyle - Total Sales: $98.22, Tax: $4.91
+Invoice 838-02-1821, Home and lifestyle - Total Sales: $25.46, Tax: $1.27
+Invoice 641-62-7288, Home and lifestyle - Total Sales: $599.52, Tax: $29.98
+Invoice 501-61-1753, Home and lifestyle - Total Sales: $378.90, Tax: $18.95
+Invoice 235-06-8510, Home and lifestyle - Total Sales: $257.16, Tax: $12.86
+Invoice 809-69-9497, Home and lifestyle - Total Sales: $456.80, Tax: $22.84
+Invoice 373-88-1424, Home and lifestyle - Total Sales: $179.05, Tax: $8.95
+Invoice 305-89-2768, Home and lifestyle - Total Sales: $65.70, Tax: $3.29
+Invoice 200-40-6154, Home and lifestyle - Total Sales: $395.46, Tax: $19.77
+Invoice 867-47-1948, Home and lifestyle - Total Sales: $158.00, Tax: $7.90
+Invoice 558-60-5016, Home and lifestyle - Total Sales: $299.70, Tax: $14.99
+Invoice 195-06-0432, Home and lifestyle - Total Sales: $243.03, Tax: $12.15
+Invoice 448-34-8700, Home and lifestyle - Total Sales: $258.37, Tax: $12.92
+Invoice 531-56-4728, Home and lifestyle - Total Sales: $240.24, Tax: $12.01
+Invoice 303-96-2227, Home and lifestyle - Total Sales: $973.80, Tax: $48.69
+Invoice 347-56-2442, Home and lifestyle - Total Sales: $65.82, Tax: $3.29
+Invoice 373-73-7910, Sports and travel - Total Sales: $604.17, Tax: $30.21
+Invoice 299-46-1805, Sports and travel - Total Sales: $562.32, Tax: $28.12
+Invoice 765-26-6951, Sports and travel - Total Sales: $435.66, Tax: $21.78
+Invoice 549-59-1358, Sports and travel - Total Sales: $265.89, Tax: $13.29
+Invoice 149-71-6266, Sports and travel - Total Sales: $702.63, Tax: $35.13
+Invoice 640-49-2076, Sports and travel - Total Sales: $670.24, Tax: $33.51
+Invoice 232-16-2483, Sports and travel - Total Sales: $68.12, Tax: $3.41
+Invoice 129-29-8530, Sports and travel - Total Sales: $313.10, Tax: $15.66
+Invoice 354-25-5821, Sports and travel - Total Sales: $414.72, Tax: $20.74
+Invoice 285-68-5083, Sports and travel - Total Sales: $74.22, Tax: $3.71
+Invoice 347-34-2234, Sports and travel - Total Sales: $495.63, Tax: $24.78
+Invoice 199-75-8169, Sports and travel - Total Sales: $158.10, Tax: $7.91
+Invoice 232-11-3025, Sports and travel - Total Sales: $787.70, Tax: $39.39
+Invoice 360-39-5055, Sports and travel - Total Sales: $244.55, Tax: $12.23
+Invoice 730-50-9884, Sports and travel - Total Sales: $581.42, Tax: $29.07
+Invoice 504-35-8843, Sports and travel - Total Sales: $42.47, Tax: $2.12
+Invoice 225-32-0908, Sports and travel - Total Sales: $448.60, Tax: $22.43
+Invoice 873-51-0671, Sports and travel - Total Sales: $153.86, Tax: $7.69
+Invoice 630-74-5166, Sports and travel - Total Sales: $372.78, Tax: $18.64
+Invoice 479-26-8945, Sports and travel - Total Sales: $32.98, Tax: $1.65
+Invoice 659-36-1684, Sports and travel - Total Sales: $399.84, Tax: $19.99
+Invoice 219-22-9386, Sports and travel - Total Sales: $899.64, Tax: $44.98
+Invoice 870-54-3162, Sports and travel - Total Sales: $161.25, Tax: $8.06
+Invoice 549-84-7482, Sports and travel - Total Sales: $812.52, Tax: $40.63
+Invoice 802-70-5316, Sports and travel - Total Sales: $552.78, Tax: $27.64
+Invoice 695-51-0018, Sports and travel - Total Sales: $139.36, Tax: $6.97
+Invoice 241-72-9525, Sports and travel - Total Sales: $519.10, Tax: $25.96
+Invoice 575-30-8091, Sports and travel - Total Sales: $580.00, Tax: $29.00
+Invoice 731-81-9469, Sports and travel - Total Sales: $898.00, Tax: $44.90
+Invoice 584-86-7256, Sports and travel - Total Sales: $241.92, Tax: $12.10
+Invoice 400-89-4171, Sports and travel - Total Sales: $647.76, Tax: $32.39
+Invoice 423-57-2993, Sports and travel - Total Sales: $560.34, Tax: $28.02
+Invoice 275-28-0149, Sports and travel - Total Sales: $63.69, Tax: $3.18
+Invoice 423-80-0988, Sports and travel - Total Sales: $152.80, Tax: $7.64
+Invoice 105-31-1824, Sports and travel - Total Sales: $486.64, Tax: $24.33
+Invoice 851-28-6367, Sports and travel - Total Sales: $155.00, Tax: $7.75
+Invoice 586-25-0848, Sports and travel - Total Sales: $86.38, Tax: $4.32
+Invoice 606-80-4905, Sports and travel - Total Sales: $114.90, Tax: $5.75
+Invoice 656-16-1063, Sports and travel - Total Sales: $139.26, Tax: $6.96
+Invoice 891-58-8335, Sports and travel - Total Sales: $207.27, Tax: $10.36
+Invoice 560-30-5617, Sports and travel - Total Sales: $123.85, Tax: $6.19
+Invoice 746-68-6593, Sports and travel - Total Sales: $174.32, Tax: $8.72
+Invoice 645-78-8093, Sports and travel - Total Sales: $186.28, Tax: $9.31
+Invoice 883-17-4236, Sports and travel - Total Sales: $28.78, Tax: $1.44
+Invoice 447-15-7839, Sports and travel - Total Sales: $222.40, Tax: $11.12
+Invoice 154-74-7179, Sports and travel - Total Sales: $54.45, Tax: $2.72
+Invoice 253-12-6086, Sports and travel - Total Sales: $688.80, Tax: $34.44
+Invoice 783-09-1637, Sports and travel - Total Sales: $337.15, Tax: $16.86
+Invoice 828-61-5674, Sports and travel - Total Sales: $440.20, Tax: $22.01
+Invoice 490-29-1201, Sports and travel - Total Sales: $15.34, Tax: $0.77
+Invoice 226-71-3580, Sports and travel - Total Sales: $213.75, Tax: $10.69
+Invoice 286-01-5402, Sports and travel - Total Sales: $281.61, Tax: $14.08
+Invoice 532-59-7201, Sports and travel - Total Sales: $479.58, Tax: $23.98
+Invoice 276-54-0879, Sports and travel - Total Sales: $390.96, Tax: $19.55
+Invoice 835-16-0096, Sports and travel - Total Sales: $73.50, Tax: $3.68
+Invoice 692-27-8933, Sports and travel - Total Sales: $347.70, Tax: $17.39
+Invoice 150-89-8043, Sports and travel - Total Sales: $133.95, Tax: $6.70
+Invoice 554-42-2417, Sports and travel - Total Sales: $954.40, Tax: $47.72
+Invoice 578-80-7669, Sports and travel - Total Sales: $74.97, Tax: $3.75
+Invoice 613-59-9758, Sports and travel - Total Sales: $143.60, Tax: $7.18
+Invoice 743-88-1662, Sports and travel - Total Sales: $668.43, Tax: $33.42
+Invoice 289-15-7034, Sports and travel - Total Sales: $329.32, Tax: $16.47
+Invoice 525-88-7307, Sports and travel - Total Sales: $75.82, Tax: $3.79
+Invoice 308-47-4913, Sports and travel - Total Sales: $522.60, Tax: $26.13
+Invoice 882-40-4577, Sports and travel - Total Sales: $269.04, Tax: $13.45
+Invoice 569-71-4390, Sports and travel - Total Sales: $43.74, Tax: $2.19
+Invoice 696-90-2548, Sports and travel - Total Sales: $77.52, Tax: $3.88
+Invoice 741-73-3559, Sports and travel - Total Sales: $336.35, Tax: $16.82
+Invoice 751-69-0068, Sports and travel - Total Sales: $893.16, Tax: $44.66
+Invoice 257-73-1380, Sports and travel - Total Sales: $331.72, Tax: $16.59
+Invoice 394-30-3170, Sports and travel - Total Sales: $707.44, Tax: $35.37
+Invoice 301-11-9629, Sports and travel - Total Sales: $133.70, Tax: $6.69
+Invoice 449-27-2918, Sports and travel - Total Sales: $39.12, Tax: $1.96
+Invoice 326-71-2155, Sports and travel - Total Sales: $295.80, Tax: $14.79
+Invoice 878-30-2331, Sports and travel - Total Sales: $545.50, Tax: $27.28
+Invoice 554-53-3790, Sports and travel - Total Sales: $222.12, Tax: $11.11
+Invoice 340-21-9136, Sports and travel - Total Sales: $160.20, Tax: $8.01
+Invoice 485-30-8700, Sports and travel - Total Sales: $166.30, Tax: $8.32
+Invoice 701-69-8742, Sports and travel - Total Sales: $343.70, Tax: $17.19
+Invoice 674-15-9296, Sports and travel - Total Sales: $185.70, Tax: $9.29
+Invoice 493-65-6248, Sports and travel - Total Sales: $369.80, Tax: $18.49
+Invoice 438-01-4015, Sports and travel - Total Sales: $197.96, Tax: $9.90
+Invoice 632-32-4574, Sports and travel - Total Sales: $607.36, Tax: $30.37
+Invoice 401-18-8016, Sports and travel - Total Sales: $98.13, Tax: $4.91
+Invoice 420-18-8989, Sports and travel - Total Sales: $412.16, Tax: $20.61
+Invoice 277-63-2961, Sports and travel - Total Sales: $73.97, Tax: $3.70
+Invoice 282-35-2475, Sports and travel - Total Sales: $186.62, Tax: $9.33
+Invoice 511-54-3087, Sports and travel - Total Sales: $88.45, Tax: $4.42
+Invoice 387-49-4215, Sports and travel - Total Sales: $145.50, Tax: $7.28
+Invoice 347-72-6115, Sports and travel - Total Sales: $635.18, Tax: $31.76
+Invoice 503-07-0930, Sports and travel - Total Sales: $408.73, Tax: $20.44
+Invoice 600-38-9738, Sports and travel - Total Sales: $359.60, Tax: $17.98
+Invoice 719-89-8991, Sports and travel - Total Sales: $457.05, Tax: $22.85
+Invoice 827-77-7633, Sports and travel - Total Sales: $882.81, Tax: $44.14
+Invoice 173-50-1108, Sports and travel - Total Sales: $80.72, Tax: $4.04
+Invoice 541-48-8554, Sports and travel - Total Sales: $548.55, Tax: $27.43
+Invoice 539-21-7227, Sports and travel - Total Sales: $257.70, Tax: $12.89
+Invoice 718-57-9773, Sports and travel - Total Sales: $493.30, Tax: $24.67
+Invoice 408-26-9866, Sports and travel - Total Sales: $517.86, Tax: $25.89
+Invoice 343-61-3544, Sports and travel - Total Sales: $266.70, Tax: $13.34
+Invoice 550-84-8664, Sports and travel - Total Sales: $429.55, Tax: $21.48
+Invoice 375-72-3056, Sports and travel - Total Sales: $189.18, Tax: $9.46
+Invoice 695-28-6250, Sports and travel - Total Sales: $215.30, Tax: $10.77
+Invoice 560-49-6611, Sports and travel - Total Sales: $45.58, Tax: $2.28
+Invoice 880-35-0356, Sports and travel - Total Sales: $225.60, Tax: $11.28
+Invoice 585-11-6748, Sports and travel - Total Sales: $290.40, Tax: $14.52
+Invoice 123-35-4896, Sports and travel - Total Sales: $419.94, Tax: $21.00
+Invoice 642-30-6693, Sports and travel - Total Sales: $327.06, Tax: $16.35
+Invoice 284-54-4231, Sports and travel - Total Sales: $80.93, Tax: $4.05
+Invoice 509-29-3912, Sports and travel - Total Sales: $348.48, Tax: $17.42
+Invoice 327-40-9673, Sports and travel - Total Sales: $435.60, Tax: $21.78
+Invoice 816-57-2053, Sports and travel - Total Sales: $121.74, Tax: $6.09
+Invoice 149-61-1929, Sports and travel - Total Sales: $641.90, Tax: $32.10
+Invoice 859-71-0933, Sports and travel - Total Sales: $30.98, Tax: $1.55
+Invoice 149-15-7606, Sports and travel - Total Sales: $335.88, Tax: $16.79
+Invoice 816-72-8853, Sports and travel - Total Sales: $139.65, Tax: $6.98
+Invoice 322-02-2271, Sports and travel - Total Sales: $128.91, Tax: $6.45
+Invoice 842-29-4695, Sports and travel - Total Sales: $119.98, Tax: $6.00
+Invoice 714-02-3114, Sports and travel - Total Sales: $197.60, Tax: $9.88
+Invoice 679-22-6530, Sports and travel - Total Sales: $81.24, Tax: $4.06
+Invoice 752-23-3760, Sports and travel - Total Sales: $448.56, Tax: $22.43
+Invoice 320-85-2052, Sports and travel - Total Sales: $34.81, Tax: $1.74
+Invoice 510-79-0415, Sports and travel - Total Sales: $138.48, Tax: $6.92
+Invoice 767-97-4650, Sports and travel - Total Sales: $129.66, Tax: $6.48
+Invoice 173-57-2300, Sports and travel - Total Sales: $145.76, Tax: $7.29
+Invoice 394-55-6384, Sports and travel - Total Sales: $631.71, Tax: $31.59
+Invoice 182-52-7000, Sports and travel - Total Sales: $108.16, Tax: $5.41
+Invoice 445-30-9252, Sports and travel - Total Sales: $77.10, Tax: $3.86
+Invoice 678-79-0726, Sports and travel - Total Sales: $815.67, Tax: $40.78
+Invoice 174-64-0215, Sports and travel - Total Sales: $697.40, Tax: $34.87
+Invoice 373-14-0504, Sports and travel - Total Sales: $143.26, Tax: $7.16
+Invoice 345-68-9016, Sports and travel - Total Sales: $253.36, Tax: $12.67
+Invoice 388-76-2555, Sports and travel - Total Sales: $82.14, Tax: $4.11
+Invoice 707-32-7409, Sports and travel - Total Sales: $382.16, Tax: $19.11
+Invoice 201-63-8275, Sports and travel - Total Sales: $475.93, Tax: $23.80
+Invoice 875-31-8302, Sports and travel - Total Sales: $93.38, Tax: $4.67
+Invoice 102-06-2002, Sports and travel - Total Sales: $126.25, Tax: $6.31
+Invoice 534-53-3526, Sports and travel - Total Sales: $379.04, Tax: $18.95
+Invoice 497-37-6538, Sports and travel - Total Sales: $412.37, Tax: $20.62
+Invoice 864-24-7918, Sports and travel - Total Sales: $244.90, Tax: $12.25
+Invoice 751-15-6198, Sports and travel - Total Sales: $138.06, Tax: $6.90
+Invoice 618-34-8551, Sports and travel - Total Sales: $186.36, Tax: $9.32
+Invoice 815-04-6282, Sports and travel - Total Sales: $324.85, Tax: $16.24
+Invoice 784-21-9238, Sports and travel - Total Sales: $10.17, Tax: $0.51
+Invoice 109-86-4363, Sports and travel - Total Sales: $420.56, Tax: $21.03
+Invoice 569-76-2760, Sports and travel - Total Sales: $88.04, Tax: $4.40
+Invoice 343-75-9322, Sports and travel - Total Sales: $94.80, Tax: $4.74
+Invoice 670-71-7306, Sports and travel - Total Sales: $267.78, Tax: $13.39
+Invoice 271-77-8740, Sports and travel - Total Sales: $175.32, Tax: $8.77
+Invoice 860-73-6466, Sports and travel - Total Sales: $78.94, Tax: $3.95
+Invoice 862-29-5914, Sports and travel - Total Sales: $22.38, Tax: $1.12
+Invoice 840-76-5966, Sports and travel - Total Sales: $25.52, Tax: $1.28
+Invoice 361-59-0574, Sports and travel - Total Sales: $724.24, Tax: $36.21
+Invoice 852-82-2749, Sports and travel - Total Sales: $258.36, Tax: $12.92
+Invoice 166-19-2553, Sports and travel - Total Sales: $534.36, Tax: $26.72
+Invoice 311-13-6971, Sports and travel - Total Sales: $319.90, Tax: $16.00
+Invoice 460-93-5834, Sports and travel - Total Sales: $319.06, Tax: $15.95
+Invoice 880-46-5796, Sports and travel - Total Sales: $769.20, Tax: $38.46
+Invoice 722-13-2115, Sports and travel - Total Sales: $42.85, Tax: $2.14
+Invoice 887-42-0517, Sports and travel - Total Sales: $581.98, Tax: $29.10
+Invoice 457-12-0244, Sports and travel - Total Sales: $211.32, Tax: $10.57
+Invoice 321-49-7382, Sports and travel - Total Sales: $88.31, Tax: $4.42
+Invoice 825-94-5922, Sports and travel - Total Sales: $50.62, Tax: $2.53
+Invoice 361-85-2571, Sports and travel - Total Sales: $447.40, Tax: $22.37
+Invoice 139-32-4183, Sports and travel - Total Sales: $877.32, Tax: $43.87
+Invoice 602-16-6955, Sports and travel - Total Sales: $766.00, Tax: $38.30

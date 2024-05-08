@@ -1,0 +1,14 @@
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\SalesDataAnalyzer1\bin\Debug\net7.0\SalesDataAnalyzer1.exe
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\SalesDataAnalyzer1\bin\Debug\net7.0\SalesDataAnalyzer1.deps.json
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\SalesDataAnalyzer1\bin\Debug\net7.0\SalesDataAnalyzer1.runtimeconfig.json
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\SalesDataAnalyzer1\bin\Debug\net7.0\SalesDataAnalyzer1.dll
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\SalesDataAnalyzer1\bin\Debug\net7.0\SalesDataAnalyzer1.pdb
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\SalesDataAnalyzer1\obj\Debug\net7.0\SalesDataAnalyzer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\SalesDataAnalyzer1\obj\Debug\net7.0\SalesDataAnalyzer1.AssemblyInfoInputs.cache
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\SalesDataAnalyzer1\obj\Debug\net7.0\SalesDataAnalyzer1.AssemblyInfo.cs
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\SalesDataAnalyzer1\obj\Debug\net7.0\SalesDataAnalyzer1.csproj.CoreCompileInputs.cache
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\SalesDataAnalyzer1\obj\Debug\net7.0\SalesDataAnalyzer1.dll
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\SalesDataAnalyzer1\obj\Debug\net7.0\refint\SalesDataAnalyzer1.dll
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\SalesDataAnalyzer1\obj\Debug\net7.0\SalesDataAnalyzer1.pdb
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\SalesDataAnalyzer1\obj\Debug\net7.0\SalesDataAnalyzer1.genruntimeconfig.cache
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\SalesDataAnalyzer1\obj\Debug\net7.0\ref\SalesDataAnalyzer1.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SalesDataAnalyzer1/1.0.0": {
+        "runtime": {
+          "SalesDataAnalyzer1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SalesDataAnalyzer1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
